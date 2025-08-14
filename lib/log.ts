@@ -1,4 +1,5 @@
-// lib/log.js
+// @ts-nocheck
+// lib/log.ts
 import chalk from 'chalk';
 import ora from 'ora';
 import boxen from 'boxen';

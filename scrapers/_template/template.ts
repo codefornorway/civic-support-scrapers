@@ -1,4 +1,5 @@
-// scrapers/_template/template.js
+// @ts-nocheck
+// scrapers/_template/template.ts
 // Copy to scrapers/<org>/<org>.js and implement discovery + extraction.
 // Then add the org to scripts/scrape.js REGISTRY.
 

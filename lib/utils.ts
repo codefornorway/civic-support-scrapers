@@ -1,4 +1,5 @@
-// lib/utils.js
+// @ts-nocheck
+// lib/utils.ts
 export const normSpace = s =>
   String(s || '')
     .replace(/\s+/g, ' ')

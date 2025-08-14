@@ -1,4 +1,5 @@
-// lib/http.js
+// @ts-nocheck
+// lib/http.ts
 import axios from 'axios';
 import pkg from '../package.json' with { type: 'json' };
 

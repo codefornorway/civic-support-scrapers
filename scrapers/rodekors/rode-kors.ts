@@ -1,4 +1,5 @@
-// scrapers/rodekors/rode-kors.js
+// @ts-nocheck
+// scrapers/rodekors/rode-kors.ts
 import * as cheerio from 'cheerio';
 import pLimit from 'p-limit';
 import fs from 'fs/promises';
