@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": false,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "allowArbitraryExtensions": true,
+    "outDir": "dist"
+  },
+  "include": [
+    "scripts/**/*.ts",
+    "scrapers/**/*.ts",
+    "lib/**/*.ts",
+    "node-shims.d.ts"
+  ]
+}

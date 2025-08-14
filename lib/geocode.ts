@@ -1,4 +1,5 @@
-// lib/geocode.js
+// @ts-nocheck
+// lib/geocode.ts
 import axios from 'axios';
 import fs from 'fs/promises';
 import path from 'path';

@@ -1,4 +1,5 @@
-// scrapers/rodekors/rode-kors.js
+// @ts-nocheck
+// scrapers/rodekors/rode-kors.ts
 import * as cheerio from 'cheerio';
 import pLimit from 'p-limit';
 import fs from 'fs/promises';
@@ -186,23 +187,40 @@ async function extractCity(url, { httpUA, geocoder, logger }) {
   // Image
   const image = getOgImage($, BASE);
 
-  // Notes: from "Velkommen" until next h2
+  // Notes
   let notesHtml = null;
+
   const welcome = $('h2, h3')
     .filter((_, el) => $(el).text().trim().toLowerCase().includes('velkommen'))
     .first();
-  if (welcome.length) {
+
+  const stopAt = $('.expander-list-header').first();
+
+  if (welcome.length && stopAt.length) {
     const frag = [];
     let node = welcome[0].nextSibling;
-    while (node) {
-      if (node.type === 'tag' && /^h2$/i.test(node.name)) break;
-      frag.push(node);
+
+    while (node && node !== stopAt[0]) {
+      if (node.type === 'tag' && node.name === 'p') {
+        const t = $(node)
+          .text()
+          .replace(/\u00a0/g, ' ')
+          .trim();
+        if (!t) {
+          node = node.nextSibling;
+          continue;
+        }
+      }
+      frag.push($(node).clone());
       node = node.nextSibling;
     }
+
     const wrapper = $('<div/>');
     frag.forEach(n => wrapper.append(n));
     const raw = wrapper.html() || '';
     notesHtml = raw.trim() ? await minify(raw, { collapseWhitespace: true, removeComments: true }) : null;
+  } else {
+    notesHtml = null;
   }
 
   // Coordinates
