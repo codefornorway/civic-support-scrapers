@@ -162,6 +162,19 @@ LOG_LEVEL=debug ONLY_COUNTY=agder ONLY_CITY=kvinesdal node scripts/scrape.js rod
 
 GEOCODE=1 CONCURRENCY=3 SLEEP_MS=600 LOG_LEVEL=info node scripts/scrape.js rodekors
 
+# Polite defaults, pretty logs
+
+LOG_LEVEL=info CONCURRENCY=3 SLEEP_MS=600 node scripts/scrape.js rodekors
+
+# With geocoding (only when coordinates are missing)
+
+LOG_LEVEL=info GEOCODE=1 CONCURRENCY=3 SLEEP_MS=600 node scripts/scrape.js rodekors
+
+# Narrow to a subset
+
+ONLY_COUNTY=agder LOG_LEVEL=info node scripts/scrape.js rodekors
+ONLY_COUNTY=agder ONLY_CITY=kvinesdal LOG_LEVEL=verbose node scripts/scrape.js rodekors
+
 ## CLI Options (env vars)
 
 | Variable       | Default | Description                                                           |

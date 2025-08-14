@@ -292,7 +292,7 @@ export async function run(opts = {}, logger) {
 
   const out = [];
   let processed = 0;
-  const counters = { pageCoords: 0, geocoded: 0, errors: 0, geocodeMiss: 0 };
+  const counters = { pageCoords: 0, geocoded: 0, errors: 0, geocodeMiss: 0, skippedNoAddress: 0 };
 
   process.on('SIGINT', async () => {
     bar.stop();
@@ -307,17 +307,28 @@ export async function run(opts = {}, logger) {
     limit(async () => {
       try {
         const { item, meta } = await extractCity(u, { httpUA, geocoder, logger });
-        out.push(item);
 
-        if (meta.coordSource === 'page') counters.pageCoords++;
-        else if (meta.coordSource === 'geocode') counters.geocoded++;
-        else if (!item.coordinates && meta.geocodeTried) counters.geocodeMiss++;
+        // ✨ Final rule: skip records with no address
+        if (!item.address) {
+          counters.skippedNoAddress++;
+          logger.verbose(`Skip (no address): ${u}`);
+        } else {
+          out.push(item);
+          if (meta.coordSource === 'page') counters.pageCoords++;
+          else if (meta.coordSource === 'geocode') counters.geocoded++;
+          else if (!item.coordinates && meta.geocodeTried) counters.geocodeMiss++;
+        }
       } catch (err) {
         counters.errors++;
         logger.error(`Error ${u} — ${err.message}`);
       } finally {
         processed++;
-        bar.update(processed, { pageCoords: counters.pageCoords, geocoded: counters.geocoded, errors: counters.errors });
+        bar.update(processed, {
+          pageCoords: counters.pageCoords,
+          geocoded: counters.geocoded,
+          skipped: counters.skippedNoAddress,
+          errors: counters.errors,
+        });
         // politeness delay
         await new Promise(r => setTimeout(r, sleepMs));
       }
@@ -334,10 +345,11 @@ export async function run(opts = {}, logger) {
   // Summary
   logger.section('Summary');
   logger.kv('Counts', {
-    total: out.length,
+    total_written: out.length,
     coords_from_page: counters.pageCoords,
     coords_geocoded: counters.geocoded,
     geocode_missed: counters.geocodeMiss,
+    skipped_no_address: counters.skippedNoAddress,
     errors: counters.errors,
   });
 

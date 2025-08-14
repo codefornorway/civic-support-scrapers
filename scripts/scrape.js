@@ -7,6 +7,7 @@ import { createLogger } from '../lib/log.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+// Add new organizations here:
 const REGISTRY = {
   rodekors: '../scrapers/rodekors/rode-kors.js',
 };
