@@ -1,5 +1,4 @@
-// @ts-nocheck
-// scripts/scrape.ts
+// scripts/scrape.js
 import path from 'path';
 import { fileURLToPath } from 'url';
 import fs from 'fs/promises';
