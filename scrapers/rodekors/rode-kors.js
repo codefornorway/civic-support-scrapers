@@ -7,6 +7,7 @@ import { get } from '../../lib/http.js';
 import { Geocoder } from '../../lib/geocode.js';
 import { normSpace, titleCase, parsePath, firstEmail, firstLatLng, getOgImage } from '../../lib/utils.js';
 import { minify } from 'html-minifier-terser';
+import pkg from '../../package.json' with { type: 'json' };
 
 const ORG = 'Røde Kors';
 const BASE = 'https://www.rodekors.no';
@@ -246,9 +247,11 @@ async function extractCity(url, { httpUA, geocoder, logger }) {
 }
 
 export async function run(opts = {}, logger) {
-  const { concurrency = 5, sleepMs = 300, onlyCounty = null, onlyCity = null, geocode: geoOpts = {}, outputDir = 'data' } = opts;
+  const { concurrency = 5, sleepMs = 300, onlyCounty = null, onlyCity = null, geocode: geoOpts = {}, outputDir = 'data', userAgent } = opts;
 
-  const httpUA = 'CivicSupportScrapers/1.0 (+hey@codefornorway.org)';
+  // UA from opts (CLI), fallback to package.json directly if missing
+  const httpUA = userAgent || `CivicSupportScrapers/${pkg.version} (+hey@codefornorway.org)`;
+
   const limit = pLimit(concurrency);
 
   logger.section('Initialize');
@@ -286,7 +289,6 @@ export async function run(opts = {}, logger) {
 
   logger.success(`Total city pages: ${cityLinks.length}\n`);
 
-  // Keep the section header ABOVE the progress bar
   logger.section('Extract records');
   const bar = logger.progress(cityLinks.length, { label: 'Scraping' });
 
@@ -308,7 +310,7 @@ export async function run(opts = {}, logger) {
       try {
         const { item, meta } = await extractCity(u, { httpUA, geocoder, logger });
 
-        // ✨ Final rule: skip records with no address
+        // Skip records with no address
         if (!item.address) {
           counters.skippedNoAddress++;
           logger.verbose(`Skip (no address): ${u}`);
@@ -329,7 +331,6 @@ export async function run(opts = {}, logger) {
           skipped: counters.skippedNoAddress,
           errors: counters.errors,
         });
-        // politeness delay
         await new Promise(r => setTimeout(r, sleepMs));
       }
     })
@@ -342,7 +343,6 @@ export async function run(opts = {}, logger) {
   await fs.writeFile(outPath, JSON.stringify(out, null, 2), 'utf8');
   logger.success(`Wrote ${out.length} records → ${outPath}`);
 
-  // Summary
   logger.section('Summary');
   logger.kv('Counts', {
     total_written: out.length,

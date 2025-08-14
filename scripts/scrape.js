@@ -3,6 +3,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import fs from 'fs/promises';
 import { createLogger } from '../lib/log.js';
+import pkg from '../package.json' with { type: 'json' };
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -42,6 +43,8 @@ async function main() {
   await fs.mkdir('data', { recursive: true });
   await fs.mkdir('.cache', { recursive: true });
 
+  const userAgent = `CivicSupportScrapers/${pkg.version} (+hey@codefornorway.org)`;
+
   const logger = createLogger({
     level: (process.env.LOG_LEVEL || 'info').toLowerCase(),
     name: org,
@@ -63,6 +66,7 @@ async function main() {
       maxCalls: Number(process.env.MAX_GEOCODES || 10000),
     },
     outputDir: 'data',
+    userAgent,
   };
 
   logger.section('Options');
