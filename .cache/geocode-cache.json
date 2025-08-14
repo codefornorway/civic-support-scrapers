@@ -1,0 +1,890 @@
+{
+  "nominatim:liavegen, 4735 evje, norway": [
+    58.5892521,
+    7.7909562
+  ],
+  "nominatim:eikenveien 278, 4596 eiken, norway": [
+    58.4762783,
+    7.219205
+  ],
+  "nominatim:4480 kvinesdal, norway": [
+    58.3489697,
+    6.9789258
+  ],
+  "nominatim:4558 vanse, norway": [
+    58.0981546,
+    6.6912726
+  ],
+  "nominatim:oksevollveien 4, 4514 mandal, norway": [
+    58.0327032,
+    7.4459667
+  ],
+  "nominatim:4816 kolbjørnsvik, norway": [
+    58.4521765,
+    8.7682595
+  ],
+  "nominatim:grønningveien 31, 4950 risør, norway": [
+    58.7172933,
+    9.2194149
+  ],
+  "nominatim:4575 lyngdal, norway": [
+    58.1379878,
+    7.0685965
+  ],
+  "nominatim:4685 nodeland, norway": [
+    58.1551373,
+    7.8357952
+  ],
+  "nominatim:4681 søgne, norway": [
+    58.0953248,
+    7.7893494
+  ],
+  "nominatim:4703 vennesla, norway": [
+    58.2693934,
+    7.9724792
+  ],
+  "nominatim:elias smiths vei 1, 1337 sandvika, norway": [
+    59.89268,
+    10.520876
+  ],
+  "nominatim:boksrudvegen 51, 2080 eidsvoll, norway": [
+    60.3285023,
+    11.1905061
+  ],
+  "nominatim:prestegårdsveien 2, 1912 enebakk, norway": [
+    59.7638853,
+    11.145607
+  ],
+  "nominatim:faldalsveien 60, 1900 fetsund, norway": [
+    59.9355926,
+    11.1645348
+  ],
+  "nominatim:fjellhamarveien 56,, 1472 fjellhamar, norway": [
+    59.9404636,
+    10.9850974
+  ],
+  "nominatim:1448 drøbak, norway": [
+    59.6679173,
+    10.6565363
+  ],
+  "nominatim:hagavegen 30, 1929 auli, norway": [
+    60.0576296,
+    11.391242
+  ],
+  "nominatim:stortorget 24, 2000 lillestrøm, norway": [
+    59.958677,
+    11.05184
+  ],
+  "nominatim:2034 holter, norway": [
+    60.2780694,
+    11.1744722
+  ],
+  "nominatim:fjellklangveien 3, 1406 ski, norway": [
+    59.727553,
+    10.827084
+  ],
+  "nominatim:1451 nesoddtangen, norway": [
+    59.8561452,
+    10.6616211
+  ],
+  "nominatim:langbakken 20, 1430 ås, norway": [
+    59.6694018,
+    10.795219
+  ],
+  "nominatim:3044 drammen, norway": [
+    59.7363513,
+    10.2087233
+  ],
+  "nominatim:3621 lampeland, norway": [
+    59.8350302,
+    9.5803482
+  ],
+  "nominatim:3580 geilo, norway": [
+    60.5337182,
+    8.2089732
+  ],
+  "nominatim:klemmavegen 10, 3550 gol, norway": [
+    60.6951602,
+    8.9250595
+  ],
+  "nominatim:midtre sundvollia 10, 3535 krøderen, norway": [
+    60.120896,
+    9.789246
+  ],
+  "nominatim:ringeriksveien 292, 3406 tranby, norway": [
+    59.8239274,
+    10.2550912
+  ],
+  "nominatim:3577 hovet, norway": [
+    60.6222113,
+    8.1530764
+  ],
+  "nominatim:3371 vikersund, norway": [
+    59.9660881,
+    9.994865
+  ],
+  "nominatim:3050 mjøndalen, norway": [
+    59.743911,
+    10.0196705
+  ],
+  "nominatim:soknedalsveien 25, 3517 hønefoss, norway": [
+    60.1712643,
+    10.2403099
+  ],
+  "nominatim:3570 ål, norway": [
+    60.6571592,
+    8.4862624
+  ],
+  "nominatim:3631 rødberg, norway": [
+    60.2671938,
+    8.9475426
+  ],
+  "nominatim:oppsjøvegen 1, 3570 ål, norway": [
+    60.6277454,
+    8.5675964
+  ],
+  "nominatim:3321 vestfossen, norway": [
+    59.7336724,
+    9.8673197
+  ],
+  "nominatim:9991 båtsfjord, norway": [
+    70.6352868,
+    29.7213503
+  ],
+  "nominatim:9615 hammerfest, norway": [
+    70.6628361,
+    23.6831069
+  ],
+  "nominatim:9593 breivikbotn, norway": [
+    70.5886731,
+    22.2871516
+  ],
+  "nominatim:9690 havøysund, norway": [
+    70.9963105,
+    24.6609576
+  ],
+  "nominatim:kifjordsletta 72, 9790 kjøllefjord, norway": [
+    70.937343,
+    27.395821
+  ],
+  "nominatim:9521 kautokeino, norway": [
+    69.0124212,
+    23.0413193
+  ],
+  "nominatim:bognelvdalen 30, 9545 langfjordbotn, norway": [
+    70.0166688,
+    22.3083038
+  ],
+  "nominatim:9711 lakselv, norway": [
+    70.0524983,
+    24.9606571
+  ],
+  "nominatim:9770 mehamn, norway": [
+    71.0389923,
+    27.8517589
+  ],
+  "nominatim:9771 skjånes, norway": [
+    70.7998884,
+    28.0975593
+  ],
+  "nominatim:9840 varangerbotn, norway": [
+    70.1727894,
+    28.5556913
+  ],
+  "nominatim:9540 talvik, norway": [
+    70.0424667,
+    22.950196
+  ],
+  "nominatim:9915 kirkenes, norway": [
+    69.7271478,
+    30.0448971
+  ],
+  "nominatim:9951 vardø, norway": [
+    70.3701861,
+    31.1077198
+  ],
+  "nominatim:2381 brumunddal, norway": [
+    60.884916,
+    10.9418392
+  ],
+  "nominatim:2580 folldal, norway": [
+    62.1323961,
+    10.002538
+  ],
+  "nominatim:brugata 3 a, 2380 brumunddal, norway": [
+    60.8855251,
+    10.9395008
+  ],
+  "nominatim:2409 elverum, norway": [
+    60.9028663,
+    11.5642522
+  ],
+  "nominatim:røde kors vegen 4, 2208 kongsvinger, norway": [
+    60.184866,
+    12.005265
+  ],
+  "nominatim:brennerivegen 10, 2340 løten, norway": [
+    60.8266726,
+    11.3054908
+  ],
+  "nominatim:2315 hamar, norway": [
+    61.07741,
+    11.131296
+  ],
+  "nominatim:2350 nes på hedmarken, norway": [
+    60.762299,
+    10.9416396
+  ],
+  "nominatim:2550 os i østerdalen, norway": [
+    62.496396,
+    11.2233111
+  ],
+  "nominatim:storgata 31, 2390 moelv, norway": [
+    60.940567,
+    10.692829
+  ],
+  "nominatim:2485 rendalen, norway": [
+    61.7095241,
+    11.3164799
+  ],
+  "nominatim:kirkevegen 3, 2335 stange, norway": [
+    60.7175978,
+    11.1884438
+  ],
+  "nominatim:atnaveien 124, 2480 koppang, norway": [
+    61.5795469,
+    11.02481
+  ],
+  "nominatim:flendalsvegen 194, 2420 trysil, norway": [
+    61.3308094,
+    12.243854
+  ],
+  "nominatim:kåtorpgrenda 31, 2322 ridabu, norway": [
+    60.811954,
+    11.1459003
+  ],
+  "nominatim:2540 tolga, norway": [
+    62.3715699,
+    11.100816
+  ],
+  "nominatim:frøyas gate 6, 2270 flisa, norway": [
+    60.610625,
+    12.005759
+  ],
+  "nominatim:2501 tynset, norway": [
+    62.2742908,
+    10.7768676
+  ],
+  "nominatim:skulehushaugen 5, 5392 storebø, norway": [
+    60.096894,
+    5.226806
+  ],
+  "nominatim:5879 bergen, norway": [
+    60.3943055,
+    5.3259192
+  ],
+  "nominatim:5721 dalekvam, norway": [
+    60.5899527,
+    5.8211245
+  ],
+  "nominatim:bomlo, norway": [
+    59.8011502,
+    5.1866408
+  ],
+  "nominatim:5786 eidfjord, norway": [
+    60.4667799,
+    7.0701188
+  ],
+  "nominatim:stadionvegen 6, 5590 etne, norway": [
+    59.668545,
+    5.943332
+  ],
+  "nominatim:5719 finse, norway": [
+    60.60301,
+    7.5020162
+  ],
+  "nominatim:5732 modalen, norway": [
+    60.8147118,
+    5.8022421
+  ],
+  "nominatim:blombakkane 17, 5354 straume, norway": [
+    60.3628449,
+    5.1168893
+  ],
+  "nominatim:damsgårdsveien 221, 5160 laksevåg, norway": [
+    60.3874449,
+    5.2976395
+  ],
+  "nominatim:5640 eikelandsosen, norway": [
+    60.2407343,
+    5.7450954
+  ],
+  "nominatim:5782 kinsarvik, norway": [
+    60.3757875,
+    6.7196524
+  ],
+  "nominatim:kolskogheiane 8, 5206 os, norway": [
+    60.198105,
+    5.4433207
+  ],
+  "nominatim:5914 isdalstø, norway": [
+    60.5553217,
+    5.2693625
+  ],
+  "nominatim:5600 norheimsund, norway": [
+    60.3712494,
+    6.145961
+  ],
+  "nominatim:5282 lonevåg, norway": [
+    60.5255611,
+    5.4956333
+  ],
+  "nominatim:5402 stord, norway": [
+    59.7809398,
+    5.5005712
+  ],
+  "nominatim:gjerstad, 5680 tysnes, norway": [
+    60.0417831,
+    5.5364471
+  ],
+  "nominatim:naustbakken 3, 5770 tyssedal, norway": [
+    60.1191434,
+    6.5560633
+  ],
+  "nominatim:5371 skogsvåg, norway": [
+    60.2617323,
+    5.110015
+  ],
+  "nominatim:5731 ulvik, norway": [
+    60.5677975,
+    6.9165306
+  ],
+  "nominatim:5705 voss, norway": [
+    60.6347028,
+    6.440392
+  ],
+  "nominatim:5713 vossestrand, norway": [
+    60.7918472,
+    6.5085056
+  ],
+  "nominatim:5337 rong, norway": [
+    60.5139549,
+    4.9093996
+  ],
+  "nominatim:5604 øystese, norway": [
+    60.386689,
+    6.2007782
+  ],
+  "nominatim:5614 ålvik, norway": [
+    60.4312911,
+    6.4324249
+  ],
+  "nominatim:skodjevegen 427, 6260 skodje, norway": [
+    62.5037721,
+    6.6979934
+  ],
+  "nominatim:sylteråket 11, 6391 tresfjord, norway": [
+    62.5218631,
+    7.1201805
+  ],
+  "nominatim:6282 brattvåg, norway": [
+    62.599812,
+    6.444248
+  ],
+  "nominatim:steinholtvegen 3, 6240 ørskog, norway": [
+    62.482227,
+    6.825874
+  ],
+  "nominatim:6283 vatne, norway": [
+    62.5583261,
+    6.6171047
+  ],
+  "nominatim:6390 vestnes, norway": [
+    62.6202531,
+    7.0588138
+  ],
+  "nominatim:ankenesveien 182, 8520 ankenes, norway": [
+    68.419903,
+    17.3840181
+  ],
+  "nominatim:vestre beiarveien 1052, 8114 tollå, norway": [
+    66.920931,
+    14.771598
+  ],
+  "nominatim:8900 brønnøysund, norway": [
+    65.4748755,
+    12.2116394
+  ],
+  "nominatim:8540 ballangen, norway": [
+    68.342872,
+    16.8313381
+  ],
+  "nominatim:hamarøyveien 5843, 8276 ulvsvåg, norway": [
+    68.127319,
+    15.879833
+  ],
+  "nominatim:8285 leines, norway": [
+    67.7371387,
+    14.8101052
+  ],
+  "nominatim:8455 stokmarknes, norway": [
+    68.5670003,
+    14.9133484
+  ],
+  "nominatim:8410 lødingen, norway": [
+    68.4227206,
+    15.9581306
+  ],
+  "nominatim:8390 reine, norway": [
+    67.9324675,
+    13.0887684
+  ],
+  "nominatim:8514 narvik, norway": [
+    68.4271216,
+    17.434918
+  ],
+  "nominatim:damveien 5, 8610 mo i rana, norway": [
+    66.3174335,
+    14.2249356
+  ],
+  "nominatim:8226 straumen, norway": [
+    67.3484259,
+    15.5968083
+  ],
+  "nominatim:8250 rognan, norway": [
+    67.1014386,
+    15.3935626
+  ],
+  "nominatim:8230 sulitjelma, norway": [
+    67.1329051,
+    16.0773781
+  ],
+  "nominatim:dovre, 2662 dovre, norway": [
+    61.9865653,
+    9.2495422
+  ],
+  "nominatim:8430 myre, norway": [
+    68.9129025,
+    15.0760421
+  ],
+  "nominatim:2930 bagn, norway": [
+    60.8225956,
+    9.5523106
+  ],
+  "nominatim:2665 lesja, norway": [
+    62.1358978,
+    8.9063451
+  ],
+  "nominatim:skjæsarøye 1, 2686 lom, norway": [
+    61.8423914,
+    8.5735404
+  ],
+  "nominatim:2909 aurdal, norway": [
+    60.9244603,
+    9.4149741
+  ],
+  "nominatim:2760 brandbu, norway": [
+    60.4207532,
+    10.5070018
+  ],
+  "nominatim:brugata 37, 2630 ringebu, norway": [
+    61.5306654,
+    10.1358545
+  ],
+  "nominatim:østringsvegen 339, 2651 østre gausdal, norway": [
+    61.2526369,
+    10.1835823
+  ],
+  "nominatim:2890 etnedal, norway": [
+    60.99499,
+    9.5814041
+  ],
+  "nominatim:2821 gjøvik, norway": [
+    60.7953009,
+    10.6788396
+  ],
+  "nominatim:2975 vang i valdres, norway": [
+    61.1253133,
+    8.5718254
+  ],
+  "nominatim:føsselie 4, 2973 ryfoss, norway": [
+    61.140683,
+    8.82333
+  ],
+  "nominatim:3582 hedalen, norway": [
+    61.2037169,
+    8.9639439
+  ],
+  "nominatim:hadelandsvegen 902, 2743 harestua, norway": [
+    60.209102,
+    10.709403
+  ],
+  "nominatim:3520 jevnaker, norway": [
+    60.2484799,
+    10.4022639
+  ],
+  "nominatim:2640 vinstra, norway": [
+    61.5964906,
+    9.7361913
+  ],
+  "nominatim:2870 dokka, norway": [
+    60.8347165,
+    10.0739023
+  ],
+  "nominatim:birivegen 32, 2836 biri, norway": [
+    60.9518896,
+    10.6206391
+  ],
+  "nominatim:nordberg solside 107, 2690 skjåk, norway": [
+    61.8980373,
+    8.2426322
+  ],
+  "nominatim:2860 hov, norway": [
+    60.699266,
+    10.3509479
+  ],
+  "nominatim:2675 otta, norway": [
+    61.7712448,
+    9.5352541
+  ],
+  "nominatim:sigurdvegen 7, 2647 sør-fron, norway": [
+    61.5775447,
+    9.8542189
+  ],
+  "nominatim:2680 vågå, norway": [
+    61.87826,
+    9.0950009
+  ],
+  "nominatim:2851 lena, norway": [
+    60.6739717,
+    10.8134458
+  ],
+  "nominatim:skøltevegen 12, 2950 skammestein, norway": [
+    61.1971926,
+    8.9813763
+  ],
+  "nominatim:2637 øyer, norway": [
+    61.2630319,
+    10.416242
+  ],
+  "nominatim:prestagarden 17, 4130 hjelmeland, norway": [
+    59.2343432,
+    6.179413
+  ],
+  "nominatim:5561 bokn, norway": [
+    59.2126342,
+    5.4379501
+  ],
+  "nominatim:4344 bryne, norway": [
+    58.735525,
+    5.6478183
+  ],
+  "nominatim:gamle åslandsvegen 9, 4355 kvernaland, norway": [
+    58.780278,
+    5.723943
+  ],
+  "nominatim:nærbøgata 23, 4365 nærbø, norway": [
+    58.6663292,
+    5.6447583
+  ],
+  "nominatim:4291 kopervik, norway": [
+    59.2835845,
+    5.3066975
+  ],
+  "nominatim:stangelandsvegen 26, 4051 sola, norway": [
+    58.869025,
+    5.661707
+  ],
+  "nominatim:thiisabakken 3, 4010 stavanger, norway": [
+    58.9597733,
+    5.7369237
+  ],
+  "nominatim:sandsvegen 124, 4230 sand, norway": [
+    59.4819856,
+    6.2711293
+  ],
+  "nominatim:4200 sauda, norway": [
+    59.6543687,
+    6.3710623
+  ],
+  "nominatim:6980 askvoll, norway": [
+    61.3497525,
+    5.0755521
+  ],
+  "nominatim:onstadvegen 38, 5745 aurland, norway": [
+    60.9036694,
+    7.1841091
+  ],
+  "nominatim:balestrandvegen 13, 6899 balestrand, norway": [
+    61.209575,
+    6.529176
+  ],
+  "nominatim:5583 vikedal, norway": [
+    59.4981186,
+    5.9025945
+  ],
+  "nominatim:åsnesvegen 67, 6969 straumsnes, norway": [
+    61.339577,
+    5.201306
+  ],
+  "nominatim:6772 nordfjordeid, norway": [
+    61.907681,
+    5.9891381
+  ],
+  "nominatim:6905 florø, norway": [
+    61.5842854,
+    5.0193609
+  ],
+  "nominatim:6973 sande i sunnfjord, norway": [
+    61.3254728,
+    5.7967607
+  ],
+  "nominatim:6800 førde, norway": [
+    61.4521759,
+    5.8571725
+  ],
+  "nominatim:grandavegen 16, 6823 sandane, norway": [
+    61.776204,
+    6.214234
+  ],
+  "nominatim:øvre stølen 27, 5966 eivindvik, norway": [
+    60.9818489,
+    5.0664499
+  ],
+  "nominatim:6993 høyanger, norway": [
+    61.2206281,
+    6.0809116
+  ],
+  "nominatim:6843 skei i jølster, norway": [
+    61.5714843,
+    6.4791646
+  ],
+  "nominatim:hanahaug 27, 6863 leikanger, norway": [
+    61.1832215,
+    6.7949081
+  ],
+  "nominatim:røslebakkane 50 b, 6868 gaupne, norway": [
+    61.411834,
+    7.282485
+  ],
+  "nominatim:hyllestad, norway": [
+    61.1683881,
+    5.2496216
+  ],
+  "nominatim:mari-jakobvegen 1c, 6887 lærdal, norway": [
+    61.098921,
+    7.487713
+  ],
+  "nominatim:6806 naustdal, norway": [
+    61.5095147,
+    5.716199
+  ],
+  "nominatim:6788 olden, norway": [
+    61.8349038,
+    6.8127028
+  ],
+  "nominatim:6741 selje, norway": [
+    62.044272,
+    5.3474511
+  ],
+  "nominatim:granden 43, 6856 sogndal, norway": [
+    61.227443,
+    7.1001775
+  ],
+  "nominatim:elvavegen 17, 6723 svelgen, norway": [
+    61.768101,
+    5.2937854
+  ],
+  "nominatim:hildastranda 36, 6793 innvik, norway": [
+    61.857437,
+    6.607496
+  ],
+  "nominatim:6782 stryn, norway": [
+    61.9043319,
+    6.7236373
+  ],
+  "nominatim:6891 vik i sogn, norway": [
+    61.0874123,
+    6.5803984
+  ],
+  "nominatim:6701 måløy, norway": [
+    61.9336888,
+    5.1129133
+  ],
+  "nominatim:6885 årdalstangen, norway": [
+    61.236136,
+    7.7025037
+  ],
+  "nominatim:heireks vei 1, 3750 drangedal, norway": [
+    59.0961978,
+    9.0526952
+  ],
+  "nominatim:3960 stathelle, norway": [
+    59.043879,
+    9.6952755
+  ],
+  "nominatim:foldsævegen 134, 3870 fyresdal, norway": [
+    59.3241653,
+    8.1520531
+  ],
+  "nominatim:meensvegen 19, 3712 skien, norway": [
+    59.1706501,
+    9.6458773
+  ],
+  "nominatim:stasjonsvegen 4, 3800 bø i telemark, norway": [
+    59.4120622,
+    9.0706776
+  ],
+  "nominatim:tuddalsvegen 1698, 3697 tuddal, norway": [
+    59.7337835,
+    8.8397306
+  ],
+  "nominatim:ringsevja 1, 3830 ulefoss, norway": [
+    59.2820645,
+    9.266051
+  ],
+  "nominatim:professor tronstads gate 10, 3675 notodden, norway": [
+    59.5652179,
+    9.256266
+  ],
+  "nominatim:3770 kragerø, norway": [
+    58.8712399,
+    9.4064837
+  ],
+  "nominatim:3883 treungen, norway": [
+    59.020534,
+    8.5219703
+  ],
+  "nominatim:hestehavna 12, 3916 porsgrunn, norway": [
+    59.1359538,
+    9.6626813
+  ],
+  "nominatim:mælandsgata 24, 3660 rjukan, norway": [
+    59.8768886,
+    8.6008011
+  ],
+  "nominatim:ingrid slettens veg 14 a, 3840 seljord, norway": [
+    59.481553,
+    8.6315842
+  ],
+  "nominatim:steinbruddet 7, 3718 skien, norway": [
+    59.2020949,
+    9.5865379
+  ],
+  "nominatim:parkveien 25 g, 9360 bardu, norway": [
+    68.8658708,
+    18.3456001
+  ],
+  "nominatim:9386 senjahopen, norway": [
+    69.4958812,
+    17.4859909
+  ],
+  "nominatim:3886 dalen, norway": [
+    59.3549362,
+    5.2785707
+  ],
+  "nominatim:9040 nordkjosbotn, norway": [
+    69.2173185,
+    19.5583133
+  ],
+  "nominatim:lovin hagens vei 15, 9300 finnsnes, norway": [
+    69.232709,
+    18.000312
+  ],
+  "nominatim:bygdeveien 22, 9476 borkenes, norway": [
+    68.7717749,
+    16.1760742
+  ],
+  "nominatim:9147 birtavarre, norway": [
+    69.4949552,
+    20.8319007
+  ],
+  "nominatim:9380 gryllefjord, norway": [
+    69.3626961,
+    17.0550418
+  ],
+  "nominatim:haraldvollveien 21, 9325 bardufoss, norway": [
+    69.087576,
+    18.596407
+  ],
+  "nominatim:9171 longyearbyen, norway": [
+    78.2231558,
+    15.6463656
+  ],
+  "nominatim:9060 lyngseidet, norway": [
+    69.5762575,
+    20.2190704
+  ],
+  "nominatim:revegårdsveien, 9440 evenskjer evenskjer, norway": [
+    68.5850132,
+    16.5837516
+  ],
+  "nominatim:9350 sjøvegan, norway": [
+    68.8726409,
+    17.8521825
+  ],
+  "nominatim:jonas lies gate 31, 9009 tromsø, norway": [
+    69.6459351,
+    18.9430737
+  ],
+  "nominatim:9445 tovik, norway": [
+    68.6801321,
+    16.8689711
+  ],
+  "nominatim:ferjeodden 22, 3145 tjøme, norway": [
+    59.1682071,
+    10.3900149
+  ],
+  "nominatim:3164 revetal, norway": [
+    59.3723954,
+    10.2631011
+  ],
+  "nominatim:3071 sande i vestfold, norway": [
+    59.5872896,
+    10.2075012
+  ],
+  "nominatim:gamle ålevei 45/47, 1621 gressvik, norway": [
+    59.2149456,
+    10.8904524
+  ],
+  "nominatim:1830 askim, norway": [
+    59.5832224,
+    11.1641908
+  ],
+  "nominatim:storgata 47, 1870 ørje, norway": [
+    59.4811418,
+    11.6569005
+  ],
+  "nominatim:kallumveien 3, 1524 moss, norway": [
+    59.4200024,
+    10.6628296
+  ],
+  "nominatim:1680 skjærhalden, norway": [
+    59.0252713,
+    11.0368478
+  ],
+  "nominatim:jernbanegata 2, 1890 rakkestad, norway": [
+    59.427267,
+    11.339397
+  ],
+  "nominatim:sarpsborgveien 7, 1640 råde, norway": [
+    59.3516061,
+    10.8756515
+  ],
+  "nominatim:henry fyhns vei 9, 1725 sarpsborg, norway": [
+    59.282089,
+    11.092505
+  ],
+  "nominatim:1850 mysen, norway": [
+    59.5556926,
+    11.3259596
+  ],
+  "nominatim:storveien 8, 1816 skiptvet, norway": [
+    59.473781,
+    11.162165
+  ],
+  "nominatim:snarveien 1, 1820 spydeberg, norway": [
+    59.6203107,
+    11.0811917
+  ]
+}
