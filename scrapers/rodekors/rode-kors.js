@@ -139,7 +139,7 @@ function getCoordsFromDataMarker($) {
 }
 
 /** Return both item and meta (for counters) */
-async function extractCity(url, { httpUA, geocoder, logger }) {
+async function extractCity(url, { httpUA, geocoder, logger, dataUpdated }) {
   logger.debug(`Extract ${url}`);
   const html = await get(url, { userAgent: httpUA, logger });
   const $ = cheerio.load(html);
@@ -186,19 +186,16 @@ async function extractCity(url, { httpUA, geocoder, logger }) {
   // Image
   const image = getOgImage($, BASE);
 
-  // Notes
+  // Notes: from Velkommen <h2/h3> up to .expander-list-header (exclusive)
   let notesHtml = null;
-
   const welcome = $('h2, h3')
     .filter((_, el) => $(el).text().trim().toLowerCase().includes('velkommen'))
     .first();
-
   const stopAt = $('.expander-list-header').first();
 
   if (welcome.length && stopAt.length) {
     const frag = [];
-    let node = welcome[0].nextSibling; 
-
+    let node = welcome[0].nextSibling; // exclude the heading itself; change to welcome[0] to include it
     while (node && node !== stopAt[0]) {
       if (node.type === 'tag' && node.name === 'p') {
         const t = $(node)
@@ -213,7 +210,6 @@ async function extractCity(url, { httpUA, geocoder, logger }) {
       frag.push($(node).clone());
       node = node.nextSibling;
     }
-
     const wrapper = $('<div/>');
     frag.forEach(n => wrapper.append(n));
     const raw = wrapper.html() || '';
@@ -258,6 +254,7 @@ async function extractCity(url, { httpUA, geocoder, logger }) {
       notes: notesHtml,
       organization: ORG,
       city: city ? titleCase(city) : null,
+      data_updated: dataUpdated,
     },
     meta: { coordSource, geocodeTried, hadAddress: !!address },
   };
@@ -268,6 +265,9 @@ export async function run(opts = {}, logger) {
 
   // UA from opts (CLI), fallback to package.json directly if missing
   const httpUA = userAgent || `CivicSupportScrapers/${pkg.version} (+hey@codefornorway.org)`;
+
+  // ✨ per-record date (override with DATA_UPDATED)
+  const dataUpdated = process.env.DATA_UPDATED || new Date().toISOString().slice(0, 10);
 
   const limit = pLimit(concurrency);
 
@@ -325,7 +325,7 @@ export async function run(opts = {}, logger) {
   const tasks = cityLinks.map(u =>
     limit(async () => {
       try {
-        const { item, meta } = await extractCity(u, { httpUA, geocoder, logger });
+        const { item, meta } = await extractCity(u, { httpUA, geocoder, logger, dataUpdated });
 
         // Skip records with no address
         if (!item.address) {

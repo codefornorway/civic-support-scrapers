@@ -1,362 +1,311 @@
+Here’s a clean, professional, and detailed **README.md** you can drop in:
+
+---
+
 # Civic Support Scrapers
 
-Scrape Norwegian NGOs’ **local chapter pages** into a **single, normalized dataset**.
-Each scraper targets one organization’s website (e.g., Røde Kors, Kirkens Bymisjon, etc.) and outputs records with the same schema:
+Scrape Norwegian NGOs’ **local chapter pages** into a **single, normalized dataset** — consistently, politely, and with great observability.
 
-- `name`
-- `description`
-- `image` (absolute URL)
-- `address`
-- `email`
-- `source` (canonical page URL)
-- `coordinates` → `[lat, lon]` _(from the page when present; optionally geocoded **only** when missing)_
-- `notes` (optional HTML snippet, e.g., “Velkommen”, key contacts)
-- `organization`
-- `city`
+Each scraper targets one organization (e.g., **Røde Kors**, **Kirkens Bymisjon**, …) and emits a uniform record schema so downstream tooling can treat all orgs the same.
 
-Built for reliability and politeness: rate-limited requests, HTML parsing via Cheerio, retries with backoff, and optional Nominatim geocoding with disk caching.
+---
+
+## Highlights
+
+- **Uniform schema** across organizations
+- **Polite by default**: rate limits, retries with backoff, geocoding throttle + disk cache
+- **Strong selectors** with semantic fallbacks
+- **Beautiful terminal UX**: progress bar, counters, sections, and leveled logs
+- **Resumability**: partial dataset written on **Ctrl+C**
+- **Per-record freshness**: `data_updated` field stamped on every record
 
 ---
 
 ## Table of Contents
 
-- [Prerequisites](#prerequisites)
+- [Requirements](#requirements)
+- [Install](#install)
 - [Repository Structure](#repository-structure)
-- [Installation](#installation)
 - [Quick Start](#quick-start)
-- [CLI Options (env vars)](#cli-options-env-vars)
-- [Outputs](#outputs)
-- [Data Schema](#data-schema)
+- [CLI / Env Options](#cli--env-options)
+- [Output & Schema](#output--schema)
 - [How It Works](#how-it-works)
-- [Add a New Organization Scraper](#add-a-new-organization-scraper)
+- [Logging & Progress](#logging--progress)
+- [Geocoding](#geocoding)
+- [Performance & Etiquette](#performance--etiquette)
+- [Add a New Organization](#add-a-new-organization)
 - [Quality Checklist](#quality-checklist)
 - [Troubleshooting](#troubleshooting)
-- [Performance & Etiquette](#performance--etiquette)
 - [Contributing](#contributing)
 - [License](#license)
 
 ---
 
-## Prerequisites
+## Requirements
 
-- **Node.js 18+** (tested on Node 18–22)
+- **Node.js ≥ 20.6** (supports JSON import attributes). Tested on Node 20–22.
 - Internet access
+
+> If you must use Node 18, you can replace JSON import attributes with a tiny helper; otherwise stick to Node 20+.
+
+---
+
+## Install
+
+From the repo root:
+
+```bash
+npm install
+```
+
+This pulls in: `axios`, `cheerio`, `p-limit`, `html-minifier-terser`, `cli-progress`, `chalk`, `boxen`, `ora`, `pretty-ms`.
 
 ---
 
 ## Repository Structure
 
-```text
+```
 .
+├─ scripts/
+│  └─ scrape.js                      # CLI runner, picks org scraper by slug
 ├─ scrapers/
 │  ├─ rodekors/
-│  │  └─ rode-kors.js             # Røde Kors scraper (example)
-│  ├─ kirkens-bymisjon/
-│  │  └─ kirkens-bymisjon.js      # (your next scraper)
+│  │  └─ rode-kors.js                # Røde Kors scraper (reference implementation)
 │  └─ <org-slug>/
-│     └─ <org>.js
-├─ lib/                            # Shared utilities (optional; can be folded later)
-│  ├─ http.js                      # axios + retry/backoff
-│  ├─ geocode.js                   # Nominatim + disk cache
-│  └─ dom.js                       # tiny helpers (normalizers/selectors)
+│     └─ <org>.js                    # Your next scraper
+├─ lib/
+│  ├─ http.js                        # axios GET with retry/backoff
+│  ├─ geocode.js                     # Nominatim + serialized rate limiting + cache
+│  ├─ log.js                         # terminal UX (sections, progress, levels)
+│  └─ utils.js                       # shared DOM/text helpers
 ├─ data/
-│  ├─ rodekors-local.json          # final JSON per org
-│  ├─ rodekors-local.partial.json  # partial on Ctrl+C
-│  └─ <org>-local.json
+│  └─ <org>-local.json               # final dataset per org (written on completion)
 └─ .cache/
-   └─ geocode-cache.json           # geocode cache shared by all scrapers
-```
-
-> If you’re starting from a single file (`rode-kors.js`), you can keep that structure and move to this layout gradually. The README works either way.
-
----
-
-## Installation
-
-From the repo root:
-
-```bash
-npm init -y
-npm i axios cheerio p-limit html-minifier-terser
-```
-
-If you run scripts with ES modules, ensure `package.json` contains:
-
-```json
-{
-  "type": "module",
-  "scripts": {
-    "start:rode-kors": "node scrapers/rodekors/rode-kors.js"
-  }
-}
+   └─ geocode-cache.json             # shared geocoding cache
 ```
 
 ---
 
 ## Quick Start
 
-### Run a single scraper (Røde Kors example)
+Use the CLI runner (`scripts/scrape.js`) and pass the organization slug.
 
-**macOS/Linux**
-
-```bash
-CONCURRENCY=3 SLEEP_MS=600 node scrapers/rodekors/rode-kors.js
-```
-
-**Windows PowerShell**
-
-```powershell
-$env:CONCURRENCY=3; $env:SLEEP_MS=600; node scrapers/rodekors/rode-kors.js
-```
-
-### Fast testing on a subset
+**Polite defaults (Røde Kors):**
 
 ```bash
-# Only one county (e.g., Agder)
-ONLY_COUNTY=agder node scrapers/rodekors/rode-kors.js
-
-# Only one city within the county (e.g., Kvinesdal in Agder)
-ONLY_COUNTY=agder ONLY_CITY=kvinesdal node scrapers/rodekors/rode-kors.js
-```
-
-### Geocode missing coordinates (optional)
-
-Coordinates are taken from the page when present.
-Enable geocoding **only for records missing coordinates**:
-
-```bash
-GEOCODE=1 CONCURRENCY=3 SLEEP_MS=600 node scrapers/rodekors/rode-kors.js
-```
-
-Geocoding uses **Nominatim** with \~1 req/sec and a disk cache; subsequent runs are fast.
-
----
-
-# Røde Kors, polite defaults
-
-CONCURRENCY=3 SLEEP_MS=600 node scripts/scrape.js rodekors
-
-# Geocode only when coordinates are missing
-
-GEOCODE=1 CONCURRENCY=3 SLEEP_MS=600 node scripts/scrape.js rodekors
-
-# Agder only
-
-ONLY_COUNTY=agder node scripts/scrape.js rodekors
-
-# Kvinesdal only
-
-ONLY_COUNTY=agder ONLY_CITY=kvinesdal node scripts/scrape.js rodekors
-
-# Polite defaults, pretty logs
-
 LOG_LEVEL=info CONCURRENCY=3 SLEEP_MS=600 node scripts/scrape.js rodekors
+```
 
-# Verbose (HTTP + cache hits)
+**With geocoding (only for missing coordinates):**
 
-LOG_LEVEL=verbose GEOCODE=1 ONLY_COUNTY=agder node scripts/scrape.js rodekors
-
-# Deep debug
-
-LOG_LEVEL=debug ONLY_COUNTY=agder ONLY_CITY=kvinesdal node scripts/scrape.js rodekors
-
-GEOCODE=1 CONCURRENCY=3 SLEEP_MS=600 LOG_LEVEL=info node scripts/scrape.js rodekors
-
-# Polite defaults, pretty logs
-
-LOG_LEVEL=info CONCURRENCY=3 SLEEP_MS=600 node scripts/scrape.js rodekors
-
-# With geocoding (only when coordinates are missing)
-
+```bash
 LOG_LEVEL=info GEOCODE=1 CONCURRENCY=3 SLEEP_MS=600 node scripts/scrape.js rodekors
+```
 
-# Narrow to a subset
+**Narrow scope while developing:**
 
-ONLY_COUNTY=agder LOG_LEVEL=info node scripts/scrape.js rodekors
-ONLY_COUNTY=agder ONLY_CITY=kvinesdal LOG_LEVEL=verbose node scripts/scrape.js rodekors
+```bash
+ONLY_COUNTY=agder node scripts/scrape.js rodekors
+ONLY_COUNTY=agder ONLY_CITY=kvinesdal node scripts/scrape.js rodekors
+```
 
-## CLI Options (env vars)
+**Stamp a specific `data_updated` date (per record):**
 
-| Variable       | Default | Description                                                           |
-| -------------- | ------- | --------------------------------------------------------------------- |
-| `CONCURRENCY`  | `5`     | Max parallel HTTP requests. Keep modest (2–5).                        |
-| `SLEEP_MS`     | `300`   | Delay (ms) between page groups to reduce load.                        |
-| `ONLY_COUNTY`  | —       | Restrict to a county slug (e.g., `agder`).                            |
-| `ONLY_CITY`    | —       | Restrict to a city slug within the selected county.                   |
-| `GEOCODE`      | _off_   | `1/true/yes` enables geocoding **only** when coordinates are missing. |
-| `GEO_RATE_MS`  | `1100`  | Min delay between geocode calls (Nominatim).                          |
-| `MAX_GEOCODES` | `10000` | Safety cap on geocode lookups.                                        |
+```bash
+DATA_UPDATED=2023-06-01 node scripts/scrape.js rodekors
+```
 
 ---
 
-## Outputs
+## CLI / Env Options
 
-- `data/<org>-local.json` – Final dataset for the organization.
-- `data/<org>-local.partial.json` – Saved if you interrupt with **Ctrl+C**.
-- `.cache/geocode-cache.json` – Disk cache for geocoding results.
+| Variable       | Default | Description                                                                      |
+| -------------- | ------- | -------------------------------------------------------------------------------- |
+| `ORG`          | —       | Organization slug (or pass as CLI arg, e.g., `node scripts/scrape.js rodekors`). |
+| `CONCURRENCY`  | `5`     | Max concurrent HTTP fetches (keep modest: 2–5).                                  |
+| `SLEEP_MS`     | `300`   | Delay between tasks for politeness (ms).                                         |
+| `ONLY_COUNTY`  | —       | Limit discovery to a single county slug (e.g., `agder`).                         |
+| `ONLY_CITY`    | —       | Limit to a city slug **within** the chosen county.                               |
+| `GEOCODE`      | off     | `1/true/yes` to geocode **only if coordinates are missing**.                     |
+| `GEO_RATE_MS`  | `1100`  | Min delay (ms) between geocoding calls (Nominatim policy friendly).              |
+| `MAX_GEOCODES` | `10000` | Hard cap on geocoding calls per run.                                             |
+| `LOG_LEVEL`    | `info`  | `silent`, `error`, `warn`, `info`, `verbose`, `debug`.                           |
+| `DATA_UPDATED` | today   | Per-record `data_updated` (ISO `YYYY-MM-DD`). Defaults to today (UTC).           |
 
-The terminal logs show:
-
-- Each requested URL
-- County/city discovery counts
-- Per-city progress (`[n/total] Completed`)
-- Geocoding cache hits/misses
+> The HTTP **User-Agent** is `CivicSupportScrapers/<version from package.json> (+hey@codefornorway.org)`.
 
 ---
 
-## Data Schema
+## Output & Schema
 
-Every scraper outputs the same normalized shape:
+Final dataset is written to `data/<org>-local.json` (array of objects). Each **record**:
 
 ```json
 {
   "name": "Arendal Røde Kors",
   "description": "Arendal Røde Kors er en frivillig, medlemsstyrt organisasjon ...",
-  "image": "https://www.example.org/path/to/cover.jpg",
+  "image": "https://www.rodekors.no/globalassets/.../treffpunkt-hove-for-sosiale-medier.jpg",
   "address": "Hans Thornes vei 26, 4846 ARENDAL",
   "email": "leder@arendal-rk.no",
-  "source": "https://www.example.org/lokalforeninger/agder/arendal/",
+  "source": "https://www.rodekors.no/lokalforeninger/agder/arendal/",
   "coordinates": [58.4887604, 8.7585903],
   "notes": "<p>Styreleder: ...</p>",
   "organization": "Røde Kors",
-  "city": "Arendal"
+  "city": "Arendal",
+  "data_updated": "2023-06-01"
 }
 ```
 
-- Fields may be `null` if truly unavailable.
-- `coordinates` is `[lat, lon]` and is only geocoded if missing on the page.
+**Field notes**
+
+- `coordinates` is `[lat, lon]`. Value comes from the page when present; geocoding runs **only if missing**.
+- `notes` is a concise HTML snippet:
+
+  - For Røde Kors, it’s content from **`<h2/3>Velkommen` up to `.expander-list-header`** (exclusive). If the header isn’t present, `notes = null`.
+
+- Records **without an address** are **skipped** (not written).
+
+A **partial** file is written on **Ctrl+C** to `data/<org>-local.partial.json`.
 
 ---
 
 ## How It Works
 
-1. **Discovery**
+1. **Discover**
 
-   - Start at the organization’s listing page (e.g., `/lokalforeninger/`).
-   - Collect **county** links (depth `/org/{county}/`), then **city** links (depth `/org/{county}/{city}/`).
-   - Apply a **stop-list** to exclude non-city subpages (`/om`, `/kontakt`, etc.).
+   - Start at org index (e.g., `/lokalforeninger/`).
+   - Collect **county** links at depth 1 (`/org/{county}/`).
+   - For each county, collect **city** links at depth 2 (`/org/{county}/{city}/`).
+   - Filter out non-city pages with an organization-specific **stop list** (`om`, `kontakt`, …).
 
-2. **Extraction**
+2. **Extract**
 
-   - Parse each city page with **Cheerio** to extract name, description, image, address, email, notes, coordinates, etc.
-   - Normalize image URLs to absolute.
-   - Prefer semantic selectors (e.g., `<dt>Adresse</dt><dd>…</dd>`), fall back to heuristics.
+   - `name`: `<h1>`
+   - `description`: prefer structured intro (e.g., `.lead p`), then meta `description`, then nearest paragraph after `<h1>`.
+   - `image`: `<meta property="og:image">` fallback to first `<img>` (absolute URL).
+   - `address`: prefer semantic `<dt>Adresse</dt><dd>…</dd>`, fallback to map data or regex.
+   - `email`: first valid email near the top or anywhere on the page.
+   - `notes`: targeted slice based on headings (see schema notes).
+   - `coordinates`: from map widget (`data-marker`) or inline text; otherwise geocode if enabled.
 
-3. **Coordinates**
+3. **Write**
 
-   - If present (e.g., `data-marker`), store them directly.
-   - If **missing** and `GEOCODE=1`, look up via **Nominatim** using progressively broader queries (address, postal code+city, city+county). Results are cached.
-
-4. **Politeness**
-
-   - Requests are rate-limited via `CONCURRENCY` + `SLEEP_MS`.
-   - HTTP errors are retried with backoff.
-   - Geocoding is serialized and throttled (`GEO_RATE_MS`).
-
----
-
-## Add a New Organization Scraper
-
-Use the existing scraper (Røde Kors) as a template.
-
-1. **Create a folder & file**
-
-   ```
-   scrapers/<org-slug>/<org>.js
-   ```
-
-2. **Set constants**
-
-   - `BASE` (site origin), `START` (listing index)
-   - Organization name (to populate `organization` in the output)
-
-3. **Implement discovery**
-
-   - `getCountyLinks()` – return only `/.../{county}/`
-   - `getCityLinks(countyUrl)` – return only `/.../{county}/{city}/`
-   - Add a **`STOP_SLUGS`** set for non-city paths (lower-case)
-
-4. **Implement extraction**
-
-   - **Name**: `<h1>`
-   - **Description**: prefer a designated block (e.g., `.lead p`), then meta `description`, then nearest `<p>` after `<h1>`
-   - **Image**: Open Graph `<meta property="og:image">`, then first `<img>`
-   - **Address**: prefer semantic blocks (e.g., `<dt>Adresse</dt><dd>…</dd>`); otherwise try a robust regex; optionally map `data-*`
-   - **Email**: near the header or anywhere on the page
-   - **Notes**: capture a relevant section (e.g., from “Velkommen” to next `<h2>`) as HTML
-   - **Coordinates**: map widget / `data-*` first; regex second
-
-5. **Geocoding (optional)**
-
-   - Keep it **off** by default; enable with `GEOCODE=1`
-   - Only perform geocoding when coordinates are missing
-
-6. **Output file**
-
-   - Write to `data/<org-slug>-local.json`
-   - On SIGINT, write `data/<org-slug>-local.partial.json`
-
-> Tip: during development, test with `ONLY_COUNTY` and `ONLY_CITY` to iterate quickly.
+   - Stream results into an array and save to `data/<org>-local.json`.
+   - On SIGINT, write a partial file with whatever’s collected so far.
 
 ---
 
-## Quality Checklist
+## Logging & Progress
 
-- [ ] County discovery returns **only** county pages (depth check = 1).
-- [ ] City discovery returns **only** city pages (depth check = 2, stop-list applied).
-- [ ] Description fallback order is correct (primary selector → meta → nearest paragraph).
-- [ ] Address prefers semantic (`dt/dd`) structure, then map `data-*`, then regex.
-- [ ] Image URL is always absolute.
-- [ ] Coordinates are copied from the page when present; otherwise geocoded **only when missing**.
-- [ ] `ONLY_COUNTY` / `ONLY_CITY` paths work.
-- [ ] Respectful defaults: `CONCURRENCY=2..3`, `SLEEP_MS≥600`.
-- [ ] Output validates against the schema (spot check a sample).
+The scraper prints structured sections and a live progress bar:
+
+```
+Extract records
+────────────────────────
+Scraping | ███████░░░ 128/319 | 40% | ETA: 5m 12s | page:94 geo:29 skip:6 err:1
+```
+
+**Counters**
+
+- `page`: coordinates read from page (map/regex)
+- `geo`: coordinates obtained via geocoding
+- `skip`: records skipped due to missing `address`
+- `err`: extraction errors
+
+Use `LOG_LEVEL=verbose` for more detail (HTTP/geocode hits). `debug` adds per-query traces.
 
 ---
 
-## Troubleshooting
+## Geocoding
 
-- **HTTP 429/5xx or timeouts**
-  Lower `CONCURRENCY`, increase `SLEEP_MS`:
-
-  ```bash
-  CONCURRENCY=2 SLEEP_MS=900 node scrapers/<org>/<org>.js
-  ```
-
-- **Fields are `null`**
-  That’s expected when the site doesn’t publish them. We rely on semantic selectors first and won’t fabricate values.
-
-- **Geocoding slow**
-  It’s deliberately throttled (\~1 req/sec). Results are cached in `.cache/geocode-cache.json`. Re-runs will be fast.
-
-- **Stop-list misses a subpage**
-  Add it (lower-case) to the scraper’s `STOP_SLUGS` set.
+- Engine: **Nominatim** (OpenStreetMap)
+- When: **only** if page lacks coordinates
+- Throttle: serialized queue, **`GEO_RATE_MS`** delay between calls (default 1100ms)
+- Cache: `.cache/geocode-cache.json` (shared for all orgs; speeds up subsequent runs)
+- Query strategy: progressively broader (address → address+county → `POSTCODE CITY` → `POSTCODE` → `CITY, COUNTY` → `CITY`)
 
 ---
 
 ## Performance & Etiquette
 
-- Use conservative settings (`CONCURRENCY=2–3`, `SLEEP_MS≥600`).
-- Run off-peak, and consider contacting site owners if scraping regularly.
-- **Geocoding**: Follow Nominatim’s usage policy. Keep requests modest and include a clear User-Agent (already set).
+- Keep **`CONCURRENCY` low** (2–3) and **`SLEEP_MS` ≥ 600** for production runs.
+- Respect retry/backoff signals and avoid hammering origins.
+- Geocoding is intentionally slow; please don’t lower the throttle for large runs.
+- Consider off-peak schedules and contacting site owners for ongoing crawls.
+
+---
+
+## Add a New Organization
+
+Use `scrapers/rodekors/rode-kors.js` as a reference:
+
+1. **Create**: `scrapers/<org-slug>/<org>.js`
+2. **Constants**: set `BASE`, `START`, `ORG`
+3. **Stop list**: `STOP_SLUGS` for non-city subpaths (lower-case)
+4. **Discovery**:
+
+   - `getCountyLinks()` → URLs like `/.../{county}/` (depth 1)
+   - `getCityLinks()` → URLs like `/.../{county}/{city}/` (depth 2)
+
+5. **Extraction**: implement robust selectors + fallbacks per site
+6. **Register** the scraper in `scripts/scrape.js` registry
+7. **Test** with `ONLY_COUNTY`/`ONLY_CITY` and low concurrency
+
+---
+
+## Quality Checklist
+
+- [ ] County pages (depth 1) only; city pages (depth 2) only
+- [ ] Non-city pages excluded by stop list
+- [ ] Image URLs normalized to absolute
+- [ ] `address` preferred via semantic `dt/dd`; regex/map otherwise
+- [ ] `notes` scoped specifically to the intended slice
+- [ ] Records without `address` are skipped
+- [ ] `coordinates` copied from page; geocoding happens only when missing
+- [ ] Progress bar reflects `page`, `geo`, `skip`, `err`
+- [ ] Output passes a quick JSON schema spot check on samples
+
+---
+
+## Troubleshooting
+
+**Too noisy / can’t see progress**
+
+- Use `LOG_LEVEL=info` (default). `verbose`/`debug` add detail; `warn` quiets things down.
+
+**Geocoding slow**
+
+- That’s by design (rate-limited; cached). Subsequent runs will reuse `.cache/geocode-cache.json`.
+
+**HTTP 429/5xx**
+
+- Reduce `CONCURRENCY`, increase `SLEEP_MS`. The HTTP client already retries with backoff.
+
+**Unexpected pages scraped**
+
+- Add more slugs to `STOP_SLUGS` and/or refine the “depth” checks.
+
+**Wrong JSON date**
+
+- Set an explicit `DATA_UPDATED=YYYY-MM-DD` in your run command.
 
 ---
 
 ## Contributing
 
-PRs welcome! Good first issues:
+PRs welcome! Especially:
 
 - New organization scrapers
-- Better selectors for edge cases
-- Export helpers (CSV/Excel)
-- Tests & CI for selectors and schema
+- Selector improvements for edge cases
+- Exporters (CSV/Parquet)
+- Tests for selectors and schema
 
 ---
 
 ## License
 
-MIT (unless your project uses a different license—update accordingly).
+MIT
 
 ---
 
-**Happy scraping!** If you want, I can also generate a minimal `lib/` with shared utils and a tiny CLI runner to select organizations (e.g., `npm run scrape -- rodekors`).
+**Happy scraping!**
