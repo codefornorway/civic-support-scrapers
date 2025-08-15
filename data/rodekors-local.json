@@ -9,7 +9,8 @@
     "coordinates": [58.4887604, 8.7585903],
     "notes": "<p>Styreleder: Anne- Grete Heddan<br>Telefon: 995 90 076<br>E-post: <a href=\"mailto:anne-grete.heddan@rodekors.org\">anne-grete.heddan@rodekors.org</a></p><p>Kontaktperson Omsorg:<br>Tone Hatten<br>Telefon: 916 83 371</p><h3>Øvrige kontaktflater</h3><p>Her finner du oss på <a title=\"Arendal RK FB side\" href=\"https://www.facebook.com/ArendalRodeKors/\" target=\"_blank\" rel=\"noopener\">vår Facebook-side</a></p><p>Her finner du <a title=\"Arendal RKH FB side\" href=\"https://www.facebook.com/ArendalRodeKorsHjelpekorps/\" target=\"_blank\" rel=\"noopener\">Arendal Røde Kors Hjelpekorps sin Facebook-side</a><br><strong>Hjelpekorpsets vakttelefon: 400 38 931</strong></p>",
     "organization": "Røde Kors",
-    "city": "Arendal"
+    "city": "Arendal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Grimstad Røde Kors",
@@ -21,7 +22,8 @@
     "coordinates": [58.34599589999999, 8.583224699999999],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Grimstad"
+    "city": "Grimstad",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Kristiansand Røde Kors",
@@ -33,7 +35,8 @@
     "coordinates": [58.1442152, 7.98122699999999],
     "notes": "<p><a title=\"Om Kristiansand Røde Kors\" href=\"/lokalforeninger/agder/kristiansand/om-kristiansand-rode-kors/\">Om Kristiansand Røde Kors</a></p><p><a href=\"/lokalforeninger/agder/kristiansand/om-kristiansand-rode-kors/kontakt-oss/\">Kontakt Kristiansand Røde Kors</a></p><p>Her finner du <a href=\"https://www.facebook.com/KristiansandRodeKors/?fref=ts\" target=\"_blank\" rel=\"noopener\">Kristiansand Røde Kors sin Facebook-side</a></p><p>Her finner du&nbsp;<a href=\"https://nb-no.facebook.com/KristiansandRKH/\">Kristiansand Røde Kors Hjelpekorps sin Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Kristiansand"
+    "city": "Kristiansand",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Evje og Hornnes Røde Kors",
@@ -45,7 +48,8 @@
     "coordinates": [58.5892521, 7.7909562],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Evje-Og-Hornnes"
+    "city": "Evje-Og-Hornnes",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hægebostad Røde Kors",
@@ -57,7 +61,8 @@
     "coordinates": [58.4762783, 7.219205],
     "notes": "<p>Vi er en del av den internasjonale Røde Kors og Røde Halvmåne bevegelsen, som er verdens største frivillige humanitære hjelpeorganisasjon.&nbsp;&nbsp;</p><p>Vi har en egen facebookside som heter Hægebostad Røde Kors. Der legger vi inn informasjon jevnlig.</p>",
     "organization": "Røde Kors",
-    "city": "Haegebostad"
+    "city": "Haegebostad",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Kvinesdal Røde Kors",
@@ -69,7 +74,8 @@
     "coordinates": [58.3489697, 6.9789258],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Kvinesdal"
+    "city": "Kvinesdal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lillesand Røde Kors",
@@ -81,7 +87,8 @@
     "coordinates": [58.197852, 8.323517],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Lillesand"
+    "city": "Lillesand",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lista Røde Kors",
@@ -93,7 +100,8 @@
     "coordinates": [58.0981546, 6.6912726],
     "notes": "<p>Her finner du oss på vår <a href=\"https://www.facebook.com/Lista-R%C3%B8de-Kors-902176639846924/?fref=nf\">Facebook-side</a></p><div class=\"cases\"><div class=\"o-layout\"><div class=\"o-layout__item u-2/6--sm entry-wrapper\"><article class=\"entry\"><img alt=\"Tina med dukken Henry\" class=\"entry__image\" src=\"/globalassets/_distrikt-og-lokalforeninger/agder/lokf-vest/lista/tina-med-henry.jpg?width=600&amp;quality=80\"> <span class=\"entry__box\">Barn og unge</span><h3 class=\"h2\"><a href=\"/forstehjelp/forstehjelp-for-barn/\" target=\"\" class=\"entry__link\">Førstehjelpskurs med Henry</a></h3></article></div></div></div>",
     "organization": "Røde Kors",
-    "city": "Lista"
+    "city": "Lista",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lindesnes Røde Kors",
@@ -105,19 +113,8 @@
     "coordinates": [58.0327032, 7.4459667],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Lindesnes"
-  },
-  {
-    "name": "Risør Røde Kors",
-    "description": "Risør Røde Kors har aktiv besøkstjeneste og et Røde Kors hus som brukes av mange foreninger i byen.",
-    "image": "https://www.rodekors.no/UI/logo_main.svg",
-    "address": "Grønningveien 31, 4950 RISØR",
-    "email": "post@redcross.no",
-    "source": "https://www.rodekors.no/lokalforeninger/agder/risor/",
-    "coordinates": [58.7172933, 9.2194149],
-    "notes": "<p>Risør Røde Kors har en aktiv besøkstjeneste. Som utover besøk på sykehjem også har aktiviteter for mottaket i byen.</p>",
-    "organization": "Røde Kors",
-    "city": "Risor"
+    "city": "Lindesnes",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hisøy Røde Kors",
@@ -129,7 +126,21 @@
     "coordinates": [58.4521765, 8.7682595],
     "notes": "<p><a title=\"Mer om Hisøy Røde Kors\" href=\"/lokalforeninger/agder/hisoy/om-oss/\">Om Hisøy Røde Kors</a></p>",
     "organization": "Røde Kors",
-    "city": "Hisoy"
+    "city": "Hisoy",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Risør Røde Kors",
+    "description": "Risør Røde Kors har aktiv besøkstjeneste og et Røde Kors hus som brukes av mange foreninger i byen.",
+    "image": "https://www.rodekors.no/UI/logo_main.svg",
+    "address": "Grønningveien 31, 4950 RISØR",
+    "email": "post@redcross.no",
+    "source": "https://www.rodekors.no/lokalforeninger/agder/risor/",
+    "coordinates": [58.7172933, 9.2194149],
+    "notes": "<p>Risør Røde Kors har en aktiv besøkstjeneste. Som utover besøk på sykehjem også har aktiviteter for mottaket i byen.</p>",
+    "organization": "Røde Kors",
+    "city": "Risor",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tromøy Røde Kors",
@@ -141,7 +152,8 @@
     "coordinates": [58.45557579999999, 8.81121189999999],
     "notes": "<p>Foreningen har fokus på besøkstjenesten som blant annet går med salgstralle og går på besøk på institusjonene hver onsdag og vaffelstekning hver 14 dag på bo og omsorgssenteret (det tidligere Røde Kors hjem).<br><br>Lokalforeningen ønsker flere aktive medlemmer. Har du tid og lyst, ta gjerne kontakt.<br><br>Loppemarked og lotteri er viktige inntektskilder. Ved Grasrotandelen til Norsk Tipping er det også mulighet for å støtte Tromøy Røde Kors økonomisk.</p>",
     "organization": "Røde Kors",
-    "city": "Tromoy"
+    "city": "Tromoy",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tvedestrand Røde Kors",
@@ -153,7 +165,8 @@
     "coordinates": [58.62491480000001, 8.9274661],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Tvedestrand"
+    "city": "Tvedestrand",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lyngdal Røde Kors",
@@ -165,7 +178,8 @@
     "coordinates": [58.1379878, 7.0685965],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Lyngdal"
+    "city": "Lyngdal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Songdalen Røde Kors",
@@ -177,7 +191,8 @@
     "coordinates": [58.1551373, 7.8357952],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Songdalen"
+    "city": "Songdalen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Asker Røde Kors",
@@ -189,7 +204,8 @@
     "coordinates": [59.8352938, 10.4367796],
     "notes": "<ul><li><a title=\"Om Solvik\" href=\"/lokalforeninger/akershus/asker/om/utleie/\">Solvik (Utleie)</a></li><li><a title=\"Nyhetsarkiv\" href=\"/lokalforeninger/akershus/asker/om/arkivet/\" target=\"_blank\" rel=\"noopener\">Nyhetsarkiv</a></li><li><a title=\"Her finner du årsmøtepapirer\" href=\"/lokalforeninger/akershus/asker/om/arkivet/arsmotepapirer/\">Årsmøtepapirer</a></li><li><a title=\"Bildearkiv\" href=\"/lokalforeninger/akershus/asker/om/bildearkiv/\" target=\"_blank\" rel=\"noopener\">Bildearkiv</a></li><li><a title=\"Følg oss på Facebook\" href=\"https://www.facebook.com/asker.rode.kors/?ref=br_rs\">Følg Asker Røde Kors på Facebook</a></li><li><a title=\"Hjelpekorps Asker Facebook\" href=\"https://www.facebook.com/askerrkh/\">Følg Asker Røde Kors Hjelpekorps på Facebook </a>&nbsp;og <a title=\"Vår Instagram\" href=\"https://www.instagram.com/askerrkh/\">Instagram</a>.</li></ul><h3>Ansatte:&nbsp;</h3><div class=\"contact o-flag o-flag--rev\"><div class=\"o-flag__img\"><img src=\"/globalassets/_distrikt-og-lokalforeninger/dk-akershus/lokf/asker/elisabeth-lundblad_2023.jpg?width=156&amp;quality=90\" alt=\"Elisabeth Lundblad_2023\"></div><div class=\"o-flag__body\"><dl><dt>Elisabeth Lundblad</dt><dd>Rådgiver</dd><dt>Kontorsted</dt><dd>Asker</dd><dt>E-post</dt><dd><a href=\"mailto:elisabeth.lundblad@redcross.no\">elisabeth.lundblad@redcross.no</a></dd><dt>Mobil</dt><dd>922 42 194</dd></dl></div></div><div class=\"contact o-flag o-flag--rev\"><div class=\"o-flag__img\"><img src=\"/globalassets/_distrikt-og-lokalforeninger/dk-akershus/lokf/asker/tore-ring.jpg?width=156&amp;quality=90\" alt=\"Tore Ring\"></div><div class=\"o-flag__body\"><dl><dt>Tore Ring</dt><dd>Rådgiver</dd><dt>Kontorsted</dt><dd>Asker</dd><dt>E-post</dt><dd><a href=\"mailto:tore.ring@redcross.no\">tore.ring@redcross.no</a></dd><dt>Mobil</dt><dd>477 17 645</dd></dl></div></div><h2>Styret:&nbsp;</h2><ul><li>Leder Vidar Skjeggestad, e-post: <a title=\"Send mail til Vidar\" href=\"mailto:vidar.skjeggestad@rodekors.org\">vidar.skjeggestad@rodekors.org</a></li><li>Nestleder Nina Krogh, e-post: <a title=\"Send e-post til Nina\" href=\"mailto:nina.krogh@rodekors.org\">nina.krogh@rodekors.org</a></li><li>Hjelpekorpsleder Simon Ringard, e-post: <a title=\"E-post til korpsleder\" href=\"mailto:korpsleder@askerrkh.no\">korpsleder@askerrkh.no</a> Forespørsel om sanitetvakter: <a title=\"E-post om vakt\" href=\"mailto:vakt@askerrkh.no\">vakt@askerrkh.no</a>&nbsp;<br>Hjelpekorpsets vaktelefon: 952 42 221</li><li>Omsorgsleder Cecilie Solberg Bråthen, e-post: <a title=\"Send e-post til Cecilie\" href=\"mailto:cecilie.solberg.brathen@rodekors.org\">cecilie.solberg.brathen@rodekors.org</a></li><li>Informasjon om ungdom kommer</li><li>Driftsansvarlig Solvik, Anne Kristin Sørensen, e-post:&nbsp; <a title=\"Send e-post til Anne \" href=\"mailto:anne.kristin.sorensen@rodekors.org\">anne.kristin.sorensen@rodekors.org</a></li><li>Styremedlem Per Oscar Brandvoll, e-post: <a title=\"Send e-post til Per Oscar\" href=\"mailto:per-oscar.brandvoll@rodekors.org\">per-oscar.brandvoll@rodekors.org</a></li><li>Styremedlem Adriana Esmeralda Lid, e-post: <a title=\"Send e-post \" href=\"mailto:adriana.lid@rodekors.org\">adriana.lid@rodekors.org</a></li><li>Varamedlem Amber Maria Ekstrøm, e-post: <a title=\"Send e-post\" href=\"mailto:amber.ekstrom@rodekors.org\">amber.ekstrom@rodekors.org</a></li></ul><p>Vi oppfordrer alle venner av Asker Røde Kors til å benytte Pantelotteriet og å tilegne Grasrotandelen hos Norsk Tipping til Asker Røde Kors.</p><p>Inntektene fra disse tilskuddsordningene utgjør en vesentlig del av inntektsgrunnlaget for lokalforeningen, og er en vesentlig forutsetning for å kunne opprettholde vårt humanitære beredskapsarbeid i lokalmiljøet.</p>",
     "organization": "Røde Kors",
-    "city": "Asker"
+    "city": "Asker",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Aurskog-Høland Røde Kors",
@@ -201,19 +217,8 @@
     "coordinates": [59.9254944, 11.5020103],
     "notes": "<ul><li>Følg oss på vår <a title=\"Lenk til vår Facebook-side\" href=\"https://www.facebook.com/Aurskog-H%C3%B8land-R%C3%B8de-Kors-303275736397678\">Facebook-side</a></li><li>Se våre aktiviteter nederst!&nbsp;</li></ul>",
     "organization": "Røde Kors",
-    "city": "Aurskog-Holand"
-  },
-  {
-    "name": "Søgne Røde Kors",
-    "description": "Søgne Røde Kors har aktiviteter innenfor Hjelpekorps, Beredskap og Omsorg. Pga. overgang til nytt system er ikke oversikt over leder og telefon oppdatert. Leder er Terje Andersen, tlf 91137492.",
-    "image": "https://www.rodekors.no/UI/logo_main.svg",
-    "address": "Postboks 20, 4681 SØGNE",
-    "email": "srk-lok@online.no",
-    "source": "https://www.rodekors.no/lokalforeninger/agder/sogne/",
-    "coordinates": [58.0953248, 7.7893494],
-    "notes": null,
-    "organization": "Røde Kors",
-    "city": "Sogne"
+    "city": "Aurskog-Holand",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Bærum Røde Kors",
@@ -225,7 +230,21 @@
     "coordinates": [59.89268, 10.520876],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Barum"
+    "city": "Barum",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Søgne Røde Kors",
+    "description": "Søgne Røde Kors har aktiviteter innenfor Hjelpekorps, Beredskap og Omsorg. Pga. overgang til nytt system er ikke oversikt over leder og telefon oppdatert. Leder er Terje Andersen, tlf 91137492.",
+    "image": "https://www.rodekors.no/UI/logo_main.svg",
+    "address": "Postboks 20, 4681 SØGNE",
+    "email": "srk-lok@online.no",
+    "source": "https://www.rodekors.no/lokalforeninger/agder/sogne/",
+    "coordinates": [58.0953248, 7.7893494],
+    "notes": null,
+    "organization": "Røde Kors",
+    "city": "Sogne",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Eidsvoll og Hurdal Røde Kors",
@@ -237,31 +256,8 @@
     "coordinates": [60.3285023, 11.1905061],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Eidsvoll-Og-Hurdal"
-  },
-  {
-    "name": "Enebakk Røde Kors",
-    "description": "Våre frivillige mobiliserer gjennom redningsarbeid og omsorgsaktiviteter.",
-    "image": "https://www.rodekors.no/globalassets/_distrikt-og-lokalforeninger/dk-akershus/lokf/enebakk/1-enebakk-rode-kors-forsidebilde.jpg",
-    "address": "Prestegårdsveien 2, 1912 ENEBAKK",
-    "email": "enebakk@rodekors.org",
-    "source": "https://www.rodekors.no/lokalforeninger/akershus/enebakk/",
-    "coordinates": [59.7638853, 11.145607],
-    "notes": null,
-    "organization": "Røde Kors",
-    "city": "Enebakk"
-  },
-  {
-    "name": "Fet Røde Kors",
-    "description": "Fet Røde Kors mobiliserer frivillighet gjennom våre omsorgsaktiviteter.",
-    "image": "https://www.rodekors.no/contentassets/8f22a556b5ef4cde85a0b11b7bdb2060/fet-1600x640.jpg",
-    "address": "Faldalsveien 60, 1900 FETSUND",
-    "email": "fet@rodekors.org",
-    "source": "https://www.rodekors.no/lokalforeninger/akershus/fet/",
-    "coordinates": [59.9355926, 11.1645348],
-    "notes": "<p>Våre arbeidsgrupper og aktiviteter gir et omfattende tilbud til kommunens innbyggere. Gjennom Norges Røde Kors bidrar vi med økonomisk støtte og informasjonsvirksomhet ved kriser og katastrofer. Denne store aktiviteten er ressurskrevende både når det gjelder innsats og økonomi, men likevel givende for de mange som deltar.</p><p>Vi inviterer deg til å bli medlem og frivillig i Fet Røde Kors. Du kan kontakte oss direkte og vi viser til informasjon om våre tillitsvalgte under de ulike aktivitetene.</p><p><a title=\"Prisliste for utleie\" href=\"/lokalforeninger/akershus/fet/om-fet-rode-kors/utleie2/\">Utleie av våre lokaler</a></p><h3>Kontakt oss</h3><p>Leder: Frank Rismyhr<br>mob. 924 20 515 / <a title=\"Send e-post til Frank\" href=\"mailto:frankrismyhr7@gmail.com\">frankrismyhr7@gmail.com</a></p><p>Nestleder: Grethe Dalberg<br>mob. 970 24 802/ <a title=\"Send e-post til Grethe\" href=\"mailto:gdalberg@online.no\">gdalberg@online.no</a></p><p>Styremedlem/ sekretær: Ann Tveter<br>mob. 986 04 089 / <a title=\"Kontakt meg\" href=\"http://ann.tve@online.no\">ann.tve@online.no</a></p><p>Styremedlem/ økonomiansvarlig: Nils Fossen<br>mob. 951 23 563 / <a title=\"Send e-post til Nils Fosse\" href=\"mailto:nils.fossen@icloud.com\">nils.fossen@icloud.com</a></p><p>Styremedlem: Andrew Glanville<br>mob. 942 77 275 / <a title=\"Send e-post til Andrew\" href=\"mailto:glanville4@msn.com\">glanville4@msn.com</a></p><p>Styremedlem: Inger Anne Hagen<br>mob. 913 20 714 / <a title=\"Send e-post til Inger Anne\" href=\"mailto:ingerannehagen@outlook.com\">ingerannehagen@outlook.com</a></p><p>Styremedlem: Nils Erik Sundsbø<br>mob. 97080570 / <a title=\"Send e-post til Nils\" href=\"mailto:nilsesundsbo@gmail.com\">nilsesundsbo@gmail.com</a></p><p>Varamedlem: Knut Viken<br>mob. 974 69 062/ <a title=\"Send e-post til Knut Viken\" href=\"mailto:knuviken@online.no\">knuviken@online.no</a></p><p>Varamedlem: Dagfinn Sundsbø<br>mob. 977 65 835 / <a title=\"Send e-post til Dagfinn\" href=\"mailto:dagfinn.sundsbo@gmail.com\">dagfinn.sundsbo@gmail.com</a></p><p>Leder besøkstjenesten: Inger Anne Hagen<br>mob. 913 20 714 / <a title=\"Send e-post til Inger Anne\" href=\"mailto:ingerannehagen@outlook.com\">ingerannehagen@outlook.com</a></p><p>Leder ATF (aktivitet og tiltaksgruppe funksjonshemmede): Inger Anne Hagen<br>mob. 913 20 714 / <a title=\"Send e-post til Inger Anne\" href=\"mailto:ingerannehagen@outlook.com\">ingerannehagen@outlook.com</a></p><p>Leder AHA (hus og aktivitetsgruppe): Aud Magnussen<br>mob. 930 22 328 / <a title=\"Send e-post til Aud\" href=\"mailto:aud.magnussen@live.no\">aud.magnussen@live.no</a></p><p>Leder flerkultur: Andrew Glanville<br>mob. 942 77 275 / <a title=\"Send e-post til Andrew\" href=\"mailto:glanville4@msn.com\">glanville4@msn.com</a></p>",
-    "organization": "Røde Kors",
-    "city": "Fet"
+    "city": "Eidsvoll-Og-Hurdal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vennesla Røde Kors",
@@ -273,7 +269,34 @@
     "coordinates": [58.2693934, 7.9724792],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vennesla"
+    "city": "Vennesla",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Enebakk Røde Kors",
+    "description": "Våre frivillige mobiliserer gjennom redningsarbeid og omsorgsaktiviteter.",
+    "image": "https://www.rodekors.no/globalassets/_distrikt-og-lokalforeninger/dk-akershus/lokf/enebakk/1-enebakk-rode-kors-forsidebilde.jpg",
+    "address": "Prestegårdsveien 2, 1912 ENEBAKK",
+    "email": "enebakk@rodekors.org",
+    "source": "https://www.rodekors.no/lokalforeninger/akershus/enebakk/",
+    "coordinates": [59.7638853, 11.145607],
+    "notes": null,
+    "organization": "Røde Kors",
+    "city": "Enebakk",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Fet Røde Kors",
+    "description": "Fet Røde Kors mobiliserer frivillighet gjennom våre omsorgsaktiviteter.",
+    "image": "https://www.rodekors.no/contentassets/8f22a556b5ef4cde85a0b11b7bdb2060/fet-1600x640.jpg",
+    "address": "Faldalsveien 60, 1900 FETSUND",
+    "email": "fet@rodekors.org",
+    "source": "https://www.rodekors.no/lokalforeninger/akershus/fet/",
+    "coordinates": [59.9355926, 11.1645348],
+    "notes": "<p>Våre arbeidsgrupper og aktiviteter gir et omfattende tilbud til kommunens innbyggere. Gjennom Norges Røde Kors bidrar vi med økonomisk støtte og informasjonsvirksomhet ved kriser og katastrofer. Denne store aktiviteten er ressurskrevende både når det gjelder innsats og økonomi, men likevel givende for de mange som deltar.</p><p>Vi inviterer deg til å bli medlem og frivillig i Fet Røde Kors. Du kan kontakte oss direkte og vi viser til informasjon om våre tillitsvalgte under de ulike aktivitetene.</p><p><a title=\"Prisliste for utleie\" href=\"/lokalforeninger/akershus/fet/om-fet-rode-kors/utleie2/\">Utleie av våre lokaler</a></p><h3>Kontakt oss</h3><p>Leder: Frank Rismyhr<br>mob. 924 20 515 / <a title=\"Send e-post til Frank\" href=\"mailto:frankrismyhr7@gmail.com\">frankrismyhr7@gmail.com</a></p><p>Nestleder: Grethe Dalberg<br>mob. 970 24 802/ <a title=\"Send e-post til Grethe\" href=\"mailto:gdalberg@online.no\">gdalberg@online.no</a></p><p>Styremedlem/ sekretær: Ann Tveter<br>mob. 986 04 089 / <a title=\"Kontakt meg\" href=\"http://ann.tve@online.no\">ann.tve@online.no</a></p><p>Styremedlem/ økonomiansvarlig: Nils Fossen<br>mob. 951 23 563 / <a title=\"Send e-post til Nils Fosse\" href=\"mailto:nils.fossen@icloud.com\">nils.fossen@icloud.com</a></p><p>Styremedlem: Andrew Glanville<br>mob. 942 77 275 / <a title=\"Send e-post til Andrew\" href=\"mailto:glanville4@msn.com\">glanville4@msn.com</a></p><p>Styremedlem: Inger Anne Hagen<br>mob. 913 20 714 / <a title=\"Send e-post til Inger Anne\" href=\"mailto:ingerannehagen@outlook.com\">ingerannehagen@outlook.com</a></p><p>Styremedlem: Nils Erik Sundsbø<br>mob. 97080570 / <a title=\"Send e-post til Nils\" href=\"mailto:nilsesundsbo@gmail.com\">nilsesundsbo@gmail.com</a></p><p>Varamedlem: Knut Viken<br>mob. 974 69 062/ <a title=\"Send e-post til Knut Viken\" href=\"mailto:knuviken@online.no\">knuviken@online.no</a></p><p>Varamedlem: Dagfinn Sundsbø<br>mob. 977 65 835 / <a title=\"Send e-post til Dagfinn\" href=\"mailto:dagfinn.sundsbo@gmail.com\">dagfinn.sundsbo@gmail.com</a></p><p>Leder besøkstjenesten: Inger Anne Hagen<br>mob. 913 20 714 / <a title=\"Send e-post til Inger Anne\" href=\"mailto:ingerannehagen@outlook.com\">ingerannehagen@outlook.com</a></p><p>Leder ATF (aktivitet og tiltaksgruppe funksjonshemmede): Inger Anne Hagen<br>mob. 913 20 714 / <a title=\"Send e-post til Inger Anne\" href=\"mailto:ingerannehagen@outlook.com\">ingerannehagen@outlook.com</a></p><p>Leder AHA (hus og aktivitetsgruppe): Aud Magnussen<br>mob. 930 22 328 / <a title=\"Send e-post til Aud\" href=\"mailto:aud.magnussen@live.no\">aud.magnussen@live.no</a></p><p>Leder flerkultur: Andrew Glanville<br>mob. 942 77 275 / <a title=\"Send e-post til Andrew\" href=\"mailto:glanville4@msn.com\">glanville4@msn.com</a></p>",
+    "organization": "Røde Kors",
+    "city": "Fet",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lørenskog Røde Kors",
@@ -285,7 +308,8 @@
     "coordinates": [59.9404636, 10.9850974],
     "notes": "<p>Lørenskog Røde Kors ble stiftet 13. januar 1953 og flere av de som var med på stiftelsesmøte, kommer fortsatt på medlemsmøter om holdes første mandag i hver måned.</p><p>Følg oss på vår <a title=\"Facebook-side\" href=\"https://www.facebook.com/lorenskogrk/\" target=\"_blank\" rel=\"noopener\">Facebook-side.</a></p>",
     "organization": "Røde Kors",
-    "city": "Lorenskog"
+    "city": "Lorenskog",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nes Røde Kors",
@@ -297,7 +321,8 @@
     "coordinates": [60.0576296, 11.391242],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Nes"
+    "city": "Nes",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Drøbak og Frogn Røde Kors",
@@ -309,7 +334,8 @@
     "coordinates": [59.6679173, 10.6565363],
     "notes": "<p>Jo flere vi er, jo mer får vi til. Sammen gjennomfører vi meningsfulle aktiviteter for både barn og eldre. Du kan ta direkte kontakt med <a title=\"Send e-post til Steinar\" href=\"mailto:steinar.bergseth@rodekors.org\">steinar.bergseth@rodekors.org</a> eller melde deg på <a title=\"Lenke til nettside\" href=\"http://www.mittrodekors.no/\">www.mittrodekors.no</a></p><p>Følg oss på vår <a title=\"Lenke til vår Instagram\" href=\"https://www.instagram.com/reel/DEpbzxvvHmI/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==\">Instagram-side</a> og <a title=\"Lenke til Facebook-side\" href=\"https://www.facebook.com/profile.php?id=61572708981024\">Facebook-side</a></p><h3>Takk for din støtte!</h3><p>Pantelotteriet</p><p>Tusen takk for at du trykker på Røde Kors-knappen når du panter. Med ditt bidrag gjennomfører våre frivillige eksempelvis aktiviteter for barn (BARK) og for eldre i form av besøks- og våketjeneste. Og du kan vinne i lotteriet!</p><p>Grasrotandelsen</p><p>Med midler fra Grasrotandelen kan vi og våre frivillige gjennomføre enda flere gratis aktiviteter og arrangementer for både unge og eldre i Drøbak. Grasrotandelen gir deg som spiller mulighet til å bestemme hvem som skal motta noe av overskuddet til Norsk Tipping. Hver gang du spiller kan du velge å støtte oss i Drøbak/Frogn Røde Kors.&nbsp;</p><p>Vipps</p><p data-ccp-props=\"{&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559683&quot;:0,&quot;335559685&quot;:0,&quot;335559731&quot;:0,&quot;335559737&quot;:0,&quot;335562764&quot;:2,&quot;335562765&quot;:0.9,&quot;335562766&quot;:4,&quot;335562767&quot;:10,&quot;335562768&quot;:4,&quot;335562769&quot;:0}\"><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">Har du </span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">lyst</span> <span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">til</span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\"> å </span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">bidra</span> <span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">til</span> <span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">vårt</span> <span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">arbeid</span> <span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">i</span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\"> Drøbak </span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">og</span> <span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">Frogn</span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">? </span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">Nå</span> <span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">kan</span> <span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">du </span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">enkelt </span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">benytte</span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">&nbsp;Vipps </span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">til</span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\"> #10906&nbsp;</span>​</p><p data-ccp-props=\"{&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559683&quot;:0,&quot;335559685&quot;:0,&quot;335559731&quot;:0,&quot;335559737&quot;:0,&quot;335562764&quot;:2,&quot;335562765&quot;:0.9,&quot;335562766&quot;:4,&quot;335562767&quot;:10,&quot;335562768&quot;:4,&quot;335562769&quot;:0}\"><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">Vi lover å </span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">bruke</span> <span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">midlene</span> <span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">til</span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\"> å </span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">gjøre</span> <span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">en</span> <span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\">forskjell</span><span data-scheme-color=\"@050505,,\" data-usefontface=\"true\" data-contrast=\"none\"> for mange.</span>​</p>",
     "organization": "Røde Kors",
-    "city": "Drobak-Og-Frogn"
+    "city": "Drobak-Og-Frogn",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nittedal Røde Kors",
@@ -321,7 +347,8 @@
     "coordinates": [60.1056687, 10.849265699999933],
     "notes": "<p>Følg oss på&nbsp;<a title=\"Nittedal Røde Kors sin Facebook\" href=\"https://nb-no.facebook.com/nittedalrodekors\">Facebook</a>. Her kan du også følge våre sider: <a title=\"Følg Røde Kors Ungdom hos oss på Facebook\" href=\"https://www.facebook.com/NittedalRKU/\" target=\"_blank\" rel=\"noopener\">Røde Kors Ungdom </a>og våre <a title=\"Våre flerkulturelle aktiviteter\" href=\"https://www.facebook.com/Nittedal-R%C3%B8de-Kors-flerkultur-1145841172113095/\" target=\"_blank\" rel=\"noopener\">flerkulturelle aktiviteter</a>.</p><p>Se våre aktiviteter nederst!&nbsp;</p>",
     "organization": "Røde Kors",
-    "city": "Nittedal"
+    "city": "Nittedal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Oppegård Røde Kors",
@@ -333,7 +360,8 @@
     "coordinates": [59.812688, 10.800427099999979],
     "notes": "<p>Vi holder til i<span class=\"Apple-converted-space\">&nbsp;</span><a title=\"Veibeskrivelse Oppegård\" href=\"https://www.google.no/maps/place/Oppeg%C3%A5rd+R%C3%B8de+Kors/@59.8126406,10.8001168,15z/data=!4m2!3m1!1s0x0:0x6b7339653b487158?sa=X&amp;ved=0CG8Q_BIwC2oVChMIouPprtWRyAIVCo1yCh35xQTs\">Holteveien 2 på Kolbotn</a>, hvor vi foruten kontor, møtelokaler og lager har egen depotbygning med garasjer. Vi har ingen faste kontortider, men du er velkommen til å ta kontakt med en av lederne for å avtale et møte.</p><h2>Nyhetsbrev</h2><ul><li><a title=\"Vårt nyhetsbrev her\" href=\"https://sway.cloud.microsoft/CBdrXRSSMDy13oWi?ref=email\">Desember 2024</a></li><li><a title=\"Her er vårt nyhetsbrev\" href=\"https://sway.cloud.microsoft/SE2fky65upqQ87RN?ref=email&amp;loc=play\">April 2024</a></li></ul><h3>Kontakt oss</h3><ul><li><a title=\"Oppegård Røde kors på facebook\" href=\"https://www.facebook.com/oppegardrk/\">Følg ORK på facebook</a>&nbsp;&nbsp;</li><li><a title=\"Oppegård RK på instagram\" href=\"https://www.instagram.com/oppegardrk/\">Følg ORK på Instagram</a> &nbsp;&nbsp;</li><li><a title=\"Kontaktpunkt Ski\" href=\"/lokalforeninger/akershus/ski/\">Kontaktpunktene til Ski Røde Kors</a></li></ul><p>Det er to Røde Kors foreninger i Nordre Follo kommune. Ski - og Oppegård Røde Kors. Foreningene samarbeider, men drifter sine aktiviteter innenfor de tidligere geografiske kommunegrensene.</p><figure class=\"image image--narrow u-clearfix\"><img src=\"/globalassets/_distrikt-og-lokalforeninger/dk-akershus/lokf/oppegard/qr-kode_oppegardrodekors71511.jpg?width=420&amp;quality=90\" alt=\"Dette er vår QR-kode\"><figcaption>Her er vår Vipps 71511</figcaption></figure>",
     "organization": "Røde Kors",
-    "city": "Oppegard"
+    "city": "Oppegard",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hurum og Røyken Røde Kors",
@@ -345,7 +373,8 @@
     "coordinates": [59.6807804, 10.5283809],
     "notes": "<p>Vår forening har aktiviteter innen hjelpekorps, besøkstjeneste, flyktningguide og RØFF.</p><p>Vi har også frivillige kursholdere, som underviser i Røde Kors Skolens mange kurs - og vi trenger flere egnede kursholdere.</p><h3>Kontakt oss</h3><ul><li><span style=\"background-color: transparent;\">Vår </span><a title=\"Hurum Røde Kors sin Facebook-side\" href=\"https://nb-no.facebook.com/hurumrodekors\">Facebook-side</a></li><li>Hurum Hjelpekorps <a title=\"Hurum Røde Kors hjelpekorps sin Facebook\" href=\"https://nb-no.facebook.com/hurumrkh\" target=\"_blank\" rel=\"noopener\">Facebook-side</a></li><li><a title=\"Info om utleie\" href=\"/lokalforeninger/akershus/hurum-og-royken/om-oss/utleie/\">Utleie</a></li></ul><p>Lokalforeningsleder: Tone Kaspersen<br>E-post: <a title=\"Send e-post\" href=\"mailto:leder@hurumrodekors.no\">leder@hurumrodekors.no</a><br>Tlf: 992 62 147</p><p>Nestleder: <span class=\"TextRun SCXW10388053 BCX8\" lang=\"NB-NO\" xml:lang=\"NB-NO\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW10388053 BCX8\">Kari Skive Stuvøy</span></span></p><p>Korpsleder: Tone Kaspersen<br>E-post: <a title=\"Send e-post\" href=\"mailto:korpsleder.hurum@hjelpekorpset.info\">korpsleder.hurum@hjelpekorpset.info</a></p><p>Operativ leder: Aldo Matteucci<br>E-post: <a title=\"Send e-post\" href=\"mailto:operativ.hurum@hjelpekorpset.info\">operativ.hurum@hjelpekorpset.info</a></p><p>Alarmtelefon Hjelpekorps: 909 12 204</p><p>Gruppeleder RØFF: Susanne Nygård<br>E-post: <a title=\"Send e-post\" href=\"mailto:roeff.hurum@hjelpekorpset.info\">roeff.hurum@hjelpekorpset.info</a></p><p>Leder for besøkstjenesten: <span class=\"TextRun SCXW10388053 BCX8\" lang=\"NB-NO\" xml:lang=\"NB-NO\" data-contrast=\"auto\"><span class=\"NormalTextRun SCXW10388053 BCX8\">Kari Skive Stuvøy</span></span><br>Mail: <a title=\"send e-post til besøkstjenesten\" href=\"mailto:besok@hurumrodekors.no\">besok@hurumrodekors.no</a></p><p>Flyktningguide: Lisbeth Ringstad<br>Mail: <a title=\"send e-post til flyktningguide\" href=\"mailto:flyktningguide@hurumrodekors.no\">flyktningguide@hurumrodekors.no</a><br>Tlf: 916 75 316</p>",
     "organization": "Røde Kors",
-    "city": "Hurum-Og-Royken"
+    "city": "Hurum-Og-Royken",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Skedsmo Røde Kors",
@@ -357,7 +386,8 @@
     "coordinates": [59.958677, 11.05184],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Skedsmo"
+    "city": "Skedsmo",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nannestad og Gjerdrum Røde Kors",
@@ -369,7 +399,8 @@
     "coordinates": [60.2780694, 11.1744722],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Nannestad-Og-Gjerdrum"
+    "city": "Nannestad-Og-Gjerdrum",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ski Røde Kors",
@@ -381,7 +412,8 @@
     "coordinates": [59.727553, 10.827084],
     "notes": "<ul><li><a title=\"Kontaktpunkt Oppegård\" href=\"/lokalforeninger/akershus/oppegard/\" target=\"_blank\" rel=\"noopener noreferrer\" data-auth=\"NotApplicable\">Kontaktpunktene til Oppegård Røde Kors</a></li><li>Følg oss på vår <a title=\"Følg vår Facebook-side\" href=\"https://www.facebook.com/people/Ski-R%C3%B8de-Kors-Lokalforening/100092754522354/\">Facebook-side</a></li><li><a title=\"Utleieinfo\" href=\"/lokalforeninger/akershus/ski/om/utleie/\">Utleie av Røde Kors-huset</a></li><li>Se oversikt over aktiviteter nederst på siden</li><li>Støtt Ski Røde Kors med&nbsp;din grasrotandel, og hjelp oss med å fortsette vårt frivillige arbeid!</li></ul><p>Lokalforeningen slutter opp om Røde Kors sine formål og prinsipper, blant annet ved å ta initiativ til å øke tilbudet til ulike mennesker i nærmiljøet.</p><h3>Kontaktinfo til Ski Røde Kors:&nbsp;</h3><p><a title=\"leder@ski.redcross.no\" href=\"mailto:leder@ski.redcross.no\">Leder Ski Røde Kors</a><br>tlf: 64 87 35 35, tast 4</p><p><a title=\"leder omsorg e-post\" href=\"mailto:leder.omsorg@ski.redcross.no\">Leder Omsorg</a><br>tlf: 64 87 35 35, tast 3</p><p><a title=\"e-post leder  hjelpekorps\" href=\"mailto:leder.hjelpekorpset@ski.redcross.no\">Leder Hjelpekorps</a><br>tlf: 64 87 35 35, tast 2</p>",
     "organization": "Røde Kors",
-    "city": "Ski"
+    "city": "Ski",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ullensaker Røde Kors",
@@ -393,7 +425,8 @@
     "coordinates": [60.152431, 11.162667],
     "notes": "<p><a title=\"Aktuelt og nyheter\" href=\"/lokalforeninger/akershus/ullensaker/om/aktuelt/\">Aktuelt og nyheter</a></p><p>Følg oss på vår&nbsp;<a title=\"Facebook  - Ullensaker Røde Kors\" href=\"https://www.facebook.com/ullensakerrodekors/\" target=\"_blank\" rel=\"noopener\">Facebook-side</a>. <a title=\"Facebook - Hjelpekorps\" href=\"https://www.facebook.com/profile.php?id=204291936385447&amp;ref=br_rs\">Hjelpekorps</a> sin Facebook, våre <a title=\"Facebook - Omsorg\" href=\"https://www.facebook.com/groups/374800529303948\">omsorgs-aktiviteter</a> og vår <a title=\"Facebook - Bruktbutikken\" href=\"https://www.facebook.com/ullensakerrodekorsbruktbutikk\">bruktbutikk</a>.</p><ul><li><a title=\"Flaskesortering\" href=\"/globalassets/_distrikt-og-lokalforeninger/dk-akershus/lokf/ullensaker/soknadsskjema_urk_flaskesortering.pdf\" target=\"_blank\" rel=\"noopener\">Søknad om dugnad flaskesortering</a></li></ul><h3>Om oss</h3><p>Ullensaker Røde Kors eier Røde Kors huset «Solvang» på Sand, samt nytt flott lokale til hjelpekorpset. Her blir tilhørende humanitære aktiviteter drevet av både Røde Kors og i samarbeid med andre.</p><p>Som alle andre lag og foreninger trenger vi medlemmer. Det er dere som gjør at vi kan ha et høyt aktivitetsnivå.</p><p>Ullensaker Røde Kors trenger flere frivillige medlemmer til organisasjonen; styrer, komiteer, råd og utvalg. Vi trenger også flere frivillige for å kunne gjennomføre aktiviteter innen omsorg; besøkstjeneste, visitortjenesten, flyktningeguide, nettverksabeid, onsdagskafe, lesevenntjeneste og blodgivertjenesten. Videre innen Hjelpekorpset; beredskap, opplæring og kursing. Og i vår bruktbutikk, hvor du kan få kjøpt alt du måtte trenge, pent brukt eller nytt.</p><p>Vi setter også stor pris på medlemmer som ønsker å støtte vårt arbeid ved å være støttemedlem.</p>",
     "organization": "Røde Kors",
-    "city": "Ullensaker"
+    "city": "Ullensaker",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vestby og Ås Røde Kors",
@@ -405,7 +438,8 @@
     "coordinates": [59.6694018, 10.795219],
     "notes": "<p>Her finner du oss på vår <a title=\"Vestby og Ås sin Facebook-side\" href=\"https://nb-no.facebook.com/VestbyogAasRodeKors/\">Facebook-side</a>. Du kan også følge oss på <a title=\"Følg oss på Instagram\" href=\"https://www.instagram.com/vestbyogaasrk/\">Instagram.</a></p><p>Les mer om vårt kurstilbud for nye og eksisterende frivillige nederst på siden og under aktiviteter.&nbsp;</p><h2>Om oss</h2><p>Både i nasjonalt og internasjonalt arbeid streber Røde Kors etter å forebygge og lindre menneskelig lidelse. Et av organisasjonens hovedmål er å beskytte liv og helse i videste forstand.</p><p>I kommunene Vestby og Ås har Røde Kors flere aktive grupper, leksehjelp, besøkstjeneste, visitortjeneste, besøkshundetjeneste, hjelpekorps og ungdomsgruppe. I tillegg arbeider vi med å opprettholde en beredskap i tilfelle katastrofer eller store ulykker som kan inntreffe, f.eks. terrorangrep, og vi jobber for at våre kommuner skal være en bra plass å være for alle innbyggere, uansett bakgrunn og forutsetninger.</p><p><a title=\"Les historie\" href=\"/lokalforeninger/akershus/vestby-og-as/om/historie/\">Les historien til Vestby og Ås Røde Kors.</a> <a title=\"historie hjelpekorps\" href=\"/lokalforeninger/akershus/vestby-og-as/om/hjelpekorpset/\">Les om hvordan vårt hjelpekorps ble til.</a></p><h3>Kontakt oss</h3><ul><li>Leder: Thomas Christiansen, <a title=\"Send e-post til leder\" href=\"mailto:leder@vark.no\">leder@vark.no</a>, tlf : 934 01 257</li><li>Beredskapsleder: Thomas Christiansen, <a title=\"Send e-post til beredskapsleder\" href=\"mailto:beredskap@vark.no\">beredskap@vark.no</a>, tlf: 934 01 257</li><li>Hus- og utleieansvarlig: Christian Hansen, <a title=\"Utleie send e-post\" href=\"mailto:husansvarlig@vark.no\">husansvarlig@vark.no</a></li></ul>",
     "organization": "Røde Kors",
-    "city": "Vestby-Og-As"
+    "city": "Vestby-Og-As",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nesodden Røde Kors",
@@ -417,7 +451,8 @@
     "coordinates": [59.8561452, 10.6616211],
     "notes": "<p>Nesodden Røde Kors er en lokalforening i Akershus med over 100 frivillige innenfor flere omsorgsaktiviteter: Flyktningguide, Besøksvenn, Besøksvenn med hund, Generasjonsarbeid (voksne og unge som leser og synger for eldre på institusjon), Skravlebordet (Røde Kors kafé for seniorer) og Fellesverket (ungdomsklubb i Røde Kors-regi).</p><p>Vi har også frivillige innenfor styrearbeid, regnskap, kursvirksomhet og beredskapsarbeid. Som frivillig i Røde Kors blir du med i en åpen og inkluderende organisasjon. Du vil få opplæring og veiledning, bevis for dine opparbeidede kompetanser, samt muligheter for å drive med aktiviteter tilpasset din tid, ditt nivå og dine interesser.</p><p><a title=\"Rapport finnes her\" href=\"/globalassets/_distrikt-og-lokalforeninger/dk-akershus/lokf/nesodden/2025_0505_utdrag_til_nork_sider-1.pdf\">Se hva vi gjorde i 2024 og hva vi planlegger for 2025</a></p>",
     "organization": "Røde Kors",
-    "city": "Nesodden"
+    "city": "Nesodden",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Drammen Røde Kors",
@@ -429,7 +464,8 @@
     "coordinates": [59.7363513, 10.2087233],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Drammen"
+    "city": "Drammen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Gol og Hemsedal Røde Kors",
@@ -441,7 +477,8 @@
     "coordinates": [60.6951602, 8.9250595],
     "notes": "<p>Vi er klare til&nbsp;å bistå lokalsamfunnet med både personell&nbsp;og redningsmateriell når ulykke, krise eller&nbsp;katastrofe inntreffer. I tillegg utøves mye&nbsp;frivillig arbeid: Barnas Røde Kors,&nbsp;besøkstjeneste, nattvandring, krise- og&nbsp;omsorgsgruppe, for å nevne noen av&nbsp;aktivitetene.</p><p>Vår <a title=\"Gol og Hemsedal sin Facebook-side\" href=\"https://nb-no.facebook.com/Gol-og-Hemsedal-R%C3%B8de-Kors-286162598458/\">Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Gol-Og-Hemsedal"
+    "city": "Gol-Og-Hemsedal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Flesberg Røde Kors",
@@ -453,7 +490,8 @@
     "coordinates": [59.8350302, 9.5803482],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Flesberg"
+    "city": "Flesberg",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Kongsberg Røde Kors",
@@ -465,7 +503,8 @@
     "coordinates": [59.66700659999999, 9.644849700000009],
     "notes": "<p>Du kan besøke oss i våre lokaler i Kirketorget 6B. Kontakt oss først for avtale.</p><ul><li>&nbsp;<a title=\"Kontakt oss\" href=\"/lokalforeninger/buskerud/kongsberg/ansatte/\">Se kontaktinformasjon til våre ansatte</a></li><li><a title=\"Utleie av lokaler\" href=\"/lokalforeninger/buskerud/kongsberg/utleie/\">Utleie av lokaler</a></li><li><a title=\"Følg Kongsberg Røde Kors på Facebook\" href=\"https://www.facebook.com/KongsbergRodeKors/\">Følg Kongsberg Røde Kors på Facebook</a></li></ul><p>Vi trenger alltid nye frivillige. Kanskje Røde Kors kan være noe for deg? <a title=\"Bli frivillig\" href=\"https://www.mittrodekors.no/\">Registrer deg på denne siden.</a></p><h3>Vil du gi en gave til oss?</h3><ul><li>Kontonummer 2291 63 82271</li><li>Vipps 96045</li></ul>",
     "organization": "Røde Kors",
-    "city": "Kongsberg"
+    "city": "Kongsberg",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Geilo Røde Kors",
@@ -477,7 +516,8 @@
     "coordinates": [60.5337182, 8.2089732],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Geilo"
+    "city": "Geilo",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Krødsherad Røde Kors",
@@ -489,7 +529,8 @@
     "coordinates": [60.120896, 9.789246],
     "notes": "<p>Vi holder til ved foten av Norefjell, og bygda vår har drøyt 2000 innbyggere. Ca. 45 personer er aktive frivillige innen Hjelpekorps, Besøksvenn og Barnas Røde Kors (BARK). I tillegg driver vi en Røde Kors-kafé hvor de frivillige bidrar og hvor alle i bygda er velkomne.</p><p>Vakttelefon hjelpekorpset: 952 09 908</p><p>Vår <a title=\"Facebook-siden til Krødsherad\" href=\"https://nb-no.facebook.com/KrodsheradRodeKors\">Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Krodsherad"
+    "city": "Krodsherad",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lier Røde Kors",
@@ -501,7 +542,8 @@
     "coordinates": [59.8239274, 10.2550912],
     "notes": "<p>Hjelpekorps: <a title=\"Send e-post til korpsleder\" href=\"mailto:korpsleder@lierrodekors.no\">korpsleder@lierrodekors.no</a>&nbsp;<br>Vakttelefon: 992 18 600</p><ul><li>Medlemskontakt: <a title=\"Send e-post til leder\" href=\"mailto:leder@lierrodekors.no\">leder@lierrodekors.no</a></li><li>Vår <a title=\"Lier Røde Kors sin Facebook-side\" href=\"https://www.facebook.com/lierrodekors/\">Facebook-side</a></li></ul>",
     "organization": "Røde Kors",
-    "city": "Lier"
+    "city": "Lier",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hovet og Hol Røde Kors",
@@ -513,7 +555,8 @@
     "coordinates": [60.6222113, 8.1530764],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Hovet-Og-Hol"
+    "city": "Hovet-Og-Hol",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Svelvik Røde Kors",
@@ -525,7 +568,8 @@
     "coordinates": [59.61792139999999, 10.403404799999976],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Svelvik"
+    "city": "Svelvik",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Modum Røde Kors",
@@ -537,7 +581,8 @@
     "coordinates": [59.9660881, 9.994865],
     "notes": "<p>Vi kunne stolt feire sitt 100-årsjubileum i 2014. Vi er en aktiv forening med mange ulike tilbud.</p><div class=\"content\"><div class=\"page\"><div class=\"section\"><div class=\"wrapper\"><div class=\"section\"><div class=\"wrapper\"><div class=\"o-layout\"><div class=\"o-layout__item\"><div class=\"page__body\"><p>Våre frivillige aktivitetsledere blir din nærmeste leder når du starter opp som frivillig i en aktivitet.&nbsp; Ønsker du å bli frivillig eller støtte vårt arbeid; bruk skjemaet over.&nbsp;</p></div></div></div></div></div></div></div></div></div>",
     "organization": "Røde Kors",
-    "city": "Modum"
+    "city": "Modum",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ringerike og Hole Røde Kors",
@@ -549,7 +594,8 @@
     "coordinates": [60.1712643, 10.2403099],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Ringerike-Og-Hole"
+    "city": "Ringerike-Og-Hole",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nedre Eiker Røde Kors",
@@ -561,7 +607,8 @@
     "coordinates": [59.743911, 10.0196705],
     "notes": "<p>Nedre Eiker Røde Kors ble stiftet som alenestående spesialavdeling 16. januar 1948 og fikk egen lokalforening i 1986. Vi er en forening med cirka 400 registrerte medlemmer som betaler sin kontingent, og vi har 125 aktive frivillige. Vårt Røde Kors-hus ligger i Hagatjernveien 33 i Mjøndalen.</p><div><p>Våre frivillige aktivitetsledere er ansvarlig for våre aktiviteter. Kontaktinfo til vår leder og nestleder finner du på forsiden.</p><p>Er du ny og ønsker å melde deg som frivillig eller støtte vårt arbeid, kan du benytte deg av skjemaene i toppmenyen på denne siden.</p></div><h3>Møt oss på Facebook</h3><ul><li>Vår <a title=\"Nedre Eiker sin Facebook-side\" href=\"https://nb-no.facebook.com/Nedre-Eiker-R%C3%B8de-Kors-344933358944696/\">Facebook-side</a></li><li>Nedre Eiker Flyktningguide's <a title=\"Nedre Eiker Flyktningguide's Facebook-side\" href=\"https://www.facebook.com/Nedre-Eiker-R%C3%B8de-Kors-Flyktningguide-495935030589147/\">Facebook-side</a></li></ul>",
     "organization": "Røde Kors",
-    "city": "Nedre-Eiker"
+    "city": "Nedre-Eiker",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vats Røde Kors",
@@ -573,7 +620,8 @@
     "coordinates": [60.6571592, 8.4862624],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vats"
+    "city": "Vats",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ål Røde Kors",
@@ -585,7 +633,8 @@
     "coordinates": [60.6277454, 8.5675964],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Al"
+    "city": "Al",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Alta Røde Kors",
@@ -597,7 +646,8 @@
     "coordinates": [69.975306, 23.35753490000002],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Alta"
+    "city": "Alta",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nore og Uvdal Røde Kors",
@@ -609,7 +659,8 @@
     "coordinates": [60.2671938, 8.9475426],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Nore-Og-Uvdal"
+    "city": "Nore-Og-Uvdal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Øvre Eiker Røde Kors",
@@ -621,7 +672,8 @@
     "coordinates": [59.7336724, 9.8673197],
     "notes": "<p>Øvre Eiker Røde Kors sin <a title=\"Øvre Eiker Røde kors Facebookside\" href=\"https://www.facebook.com/ovreeikerrodekors/\">Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Ovre-Eiker"
+    "city": "Ovre-Eiker",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Båtsfjord Røde Kors",
@@ -633,7 +685,8 @@
     "coordinates": [70.6352868, 29.7213503],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Batsfjord"
+    "city": "Batsfjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hammerfest Røde Kors",
@@ -645,7 +698,8 @@
     "coordinates": [70.6628361, 23.6831069],
     "notes": "<h3>Lokalforeningsleder:</h3><p>Kjetil Solvang<br>Tel: 906 07 066<br>Epost: <a href=\"mailto:kjetil.solvang@rodekors.org\">kjetil.solvang@rodekors.org</a></p><h3>Leder for hjelpekorpset:</h3><p>Hilde Taraldsvik Digranes<br>mob.: 92457544<br>E-post: hotaraldsvik@gmail.com</p><p>Her finner du oss på vår <a href=\"https://www.facebook.com/Hammerfest-R%C3%B8de-Kors-122078701190069/\">Facebook-side</a></p><h3>Leder for omsorg:</h3><p>Karin Alice Isaksen,<br>Tel: 97470728<br>Epost: kari-isa@online.no</p><h3>Omsorg omfatter</h3><ul><li>Besøkstjenesten</li><li>Julehjelpen</li></ul>",
     "organization": "Røde Kors",
-    "city": "Hammerfest"
+    "city": "Hammerfest",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Karasjok Røde Kors",
@@ -657,7 +711,8 @@
     "coordinates": [59.9155229, 10.757790600000021],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Karasjok"
+    "city": "Karasjok",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hasvik Røde Kors",
@@ -669,7 +724,8 @@
     "coordinates": [70.5886731, 22.2871516],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Hasvik"
+    "city": "Hasvik",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Kjøllefjord Røde Kors",
@@ -681,7 +737,8 @@
     "coordinates": [70.937343, 27.395821],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Kjollefjord"
+    "city": "Kjollefjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Havøysund Røde Kors",
@@ -693,7 +750,8 @@
     "coordinates": [70.9963105, 24.6609576],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Havoysund"
+    "city": "Havoysund",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Langfjord Røde Kors",
@@ -705,7 +763,8 @@
     "coordinates": [70.0166688, 22.3083038],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Langfjord"
+    "city": "Langfjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Kautokeino Røde Kors",
@@ -717,7 +776,8 @@
     "coordinates": [69.0124212, 23.0413193],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Kautokeino"
+    "city": "Kautokeino",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lakselv Røde Kors",
@@ -729,7 +789,8 @@
     "coordinates": [70.0524983, 24.9606571],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Lakselv"
+    "city": "Lakselv",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Skjånes Røde Kors",
@@ -741,7 +802,8 @@
     "coordinates": [70.7998884, 28.0975593],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Skjanes"
+    "city": "Skjanes",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Mehamn Røde Kors",
@@ -753,7 +815,8 @@
     "coordinates": [71.0389923, 27.8517589],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Mehamn"
+    "city": "Mehamn",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Talvik Røde Kors",
@@ -765,19 +828,8 @@
     "coordinates": [70.0424667, 22.950196],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Talvik"
-  },
-  {
-    "name": "Vadsø Røde Kors",
-    "description": "Vadsø Røde Kors er her for å hjelpe mennesker i sårbare livssituasjoner.",
-    "image": "https://www.rodekors.no/UI/logo_main.svg",
-    "address": "Idrettsveien 34, 9800 VADSØ",
-    "email": "siv.pedersen.eines@rodekors.org",
-    "source": "https://www.rodekors.no/lokalforeninger/finnmark/vadso/",
-    "coordinates": [70.0764075, 29.75068280000005],
-    "notes": null,
-    "organization": "Røde Kors",
-    "city": "Vadso"
+    "city": "Talvik",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nesseby Røde Kors",
@@ -789,7 +841,21 @@
     "coordinates": [70.1727894, 28.5556913],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Nesseby"
+    "city": "Nesseby",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Vadsø Røde Kors",
+    "description": "Vadsø Røde Kors er her for å hjelpe mennesker i sårbare livssituasjoner.",
+    "image": "https://www.rodekors.no/UI/logo_main.svg",
+    "address": "Idrettsveien 34, 9800 VADSØ",
+    "email": "siv.pedersen.eines@rodekors.org",
+    "source": "https://www.rodekors.no/lokalforeninger/finnmark/vadso/",
+    "coordinates": [70.0764075, 29.75068280000005],
+    "notes": null,
+    "organization": "Røde Kors",
+    "city": "Vadso",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sør-Varanger Røde Kors",
@@ -801,7 +867,8 @@
     "coordinates": [69.7271478, 30.0448971],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sor-Varanger"
+    "city": "Sor-Varanger",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Brøttum og omegn Røde Kors",
@@ -813,19 +880,8 @@
     "coordinates": [61.1018988, 10.6968172],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Brottum-Og-Omegn"
-  },
-  {
-    "name": "Eidskog Røde Kors",
-    "description": "Eidskog Røde Kors tilbyr sosiale, sunne og trygge aktiviteter, strekker ut en hjelpende hånd og er tydelig aktør i lokalt beredskapsarbeid og den frivillige redningstjenesten.",
-    "image": "https://www.rodekors.no/globalassets/_distrikt-og-lokalforeninger/dk-hedmark/lokf/eidskog/309398943_3412290985657296_4977992948589699061_n.jpg",
-    "address": "Tollefsbølvegen 39, 2232 TOBØL",
-    "email": "eidskog@rodekors.org",
-    "source": "https://www.rodekors.no/lokalforeninger/hedmark/eidskog/",
-    "coordinates": [59.9722828, 12.0608857],
-    "notes": null,
-    "organization": "Røde Kors",
-    "city": "Eidskog"
+    "city": "Brottum-Og-Omegn",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vardø Røde Kors",
@@ -837,31 +893,21 @@
     "coordinates": [70.3701861, 31.1077198],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vardo"
+    "city": "Vardo",
+    "data_updated": "2025-08-15"
   },
   {
-    "name": "Folldal og Sollia Røde Kors",
-    "description": "Folldal og Sollia Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid.",
-    "image": "https://www.rodekors.no/UI/logo_main.svg",
-    "address": "2580 FOLLDAL",
-    "email": "folldalrodekors@gmail.com",
-    "source": "https://www.rodekors.no/lokalforeninger/hedmark/folldal-sollia/",
-    "coordinates": [62.1323961, 10.002538],
+    "name": "Eidskog Røde Kors",
+    "description": "Eidskog Røde Kors tilbyr sosiale, sunne og trygge aktiviteter, strekker ut en hjelpende hånd og er tydelig aktør i lokalt beredskapsarbeid og den frivillige redningstjenesten.",
+    "image": "https://www.rodekors.no/globalassets/_distrikt-og-lokalforeninger/dk-hedmark/lokf/eidskog/309398943_3412290985657296_4977992948589699061_n.jpg",
+    "address": "Tollefsbølvegen 39, 2232 TOBØL",
+    "email": "eidskog@rodekors.org",
+    "source": "https://www.rodekors.no/lokalforeninger/hedmark/eidskog/",
+    "coordinates": [59.9722828, 12.0608857],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Folldal-Sollia"
-  },
-  {
-    "name": "Furnes og Brumunddal Røde Kors",
-    "description": "Furnes og Brumunddal Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid og omsorgsaktiviteter.",
-    "image": "https://www.rodekors.no/UI/logo_main.svg",
-    "address": "Brugata 3 a, 2380 BRUMUNDDAL",
-    "email": "aia@eika.no",
-    "source": "https://www.rodekors.no/lokalforeninger/hedmark/furnes-og-brumunddal/",
-    "coordinates": [60.8855251, 10.9395008],
-    "notes": null,
-    "organization": "Røde Kors",
-    "city": "Furnes-Og-Brumunddal"
+    "city": "Eidskog",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Brumunddal Røde Kors Hjelpekorps",
@@ -873,7 +919,34 @@
     "coordinates": [60.884916, 10.9418392],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Brumunddal-Rkh"
+    "city": "Brumunddal-Rkh",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Folldal og Sollia Røde Kors",
+    "description": "Folldal og Sollia Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid.",
+    "image": "https://www.rodekors.no/UI/logo_main.svg",
+    "address": "2580 FOLLDAL",
+    "email": "folldalrodekors@gmail.com",
+    "source": "https://www.rodekors.no/lokalforeninger/hedmark/folldal-sollia/",
+    "coordinates": [62.1323961, 10.002538],
+    "notes": null,
+    "organization": "Røde Kors",
+    "city": "Folldal-Sollia",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Furnes og Brumunddal Røde Kors",
+    "description": "Furnes og Brumunddal Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid og omsorgsaktiviteter.",
+    "image": "https://www.rodekors.no/UI/logo_main.svg",
+    "address": "Brugata 3 a, 2380 BRUMUNDDAL",
+    "email": "aia@eika.no",
+    "source": "https://www.rodekors.no/lokalforeninger/hedmark/furnes-og-brumunddal/",
+    "coordinates": [60.8855251, 10.9395008],
+    "notes": null,
+    "organization": "Røde Kors",
+    "city": "Furnes-Og-Brumunddal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Kongsvinger Røde Kors",
@@ -885,19 +958,8 @@
     "coordinates": [60.184866, 12.005265],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Kongsvinger"
-  },
-  {
-    "name": "Elverum Røde Kors",
-    "description": "Elverum Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid, omsorgsaktiviteter og Røde Kors butikk.",
-    "image": "https://www.rodekors.no/UI/logo_main.svg",
-    "address": "Ankers vei 7, 2409 ELVERUM",
-    "email": "elverum@rodekors.org",
-    "source": "https://www.rodekors.no/lokalforeninger/hedmark/elverum/",
-    "coordinates": [60.9028663, 11.5642522],
-    "notes": null,
-    "organization": "Røde Kors",
-    "city": "Elverum"
+    "city": "Kongsvinger",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Løten Røde Kors",
@@ -909,7 +971,21 @@
     "coordinates": [60.8266726, 11.3054908],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Loten"
+    "city": "Loten",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Elverum Røde Kors",
+    "description": "Elverum Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid, omsorgsaktiviteter og Røde Kors butikk.",
+    "image": "https://www.rodekors.no/UI/logo_main.svg",
+    "address": "Ankers vei 7, 2409 ELVERUM",
+    "email": "elverum@rodekors.org",
+    "source": "https://www.rodekors.no/lokalforeninger/hedmark/elverum/",
+    "coordinates": [60.9028663, 11.5642522],
+    "notes": null,
+    "organization": "Røde Kors",
+    "city": "Elverum",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hamar",
@@ -921,7 +997,8 @@
     "coordinates": [61.07741, 11.131296],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Hamar"
+    "city": "Hamar",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nes Røde Kors",
@@ -933,7 +1010,8 @@
     "coordinates": [60.762299, 10.9416396],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Nes"
+    "city": "Nes",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ringsaker Røde Kors",
@@ -945,7 +1023,8 @@
     "coordinates": [60.940567, 10.692829],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Ringsaker"
+    "city": "Ringsaker",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Os Røde Kors Hjelpekorps",
@@ -957,7 +1036,8 @@
     "coordinates": [62.496396, 11.2233111],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Os"
+    "city": "Os",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Stange Røde Kors",
@@ -969,7 +1049,8 @@
     "coordinates": [60.7175978, 11.1884438],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Stange"
+    "city": "Stange",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Stor-Elvdal Røde Kors",
@@ -981,19 +1062,8 @@
     "coordinates": [61.5795469, 11.02481],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Stor-Elvdal"
-  },
-  {
-    "name": "Trysil Røde Kors",
-    "description": "Trysil Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid.",
-    "image": "https://www.rodekors.no/UI/logo_main.svg",
-    "address": "Flendalsvegen 194, 2420 TRYSIL",
-    "email": "post@trysilrkh.net",
-    "source": "https://www.rodekors.no/lokalforeninger/hedmark/trysil/",
-    "coordinates": [61.3308094, 12.243854],
-    "notes": null,
-    "organization": "Røde Kors",
-    "city": "Trysil"
+    "city": "Stor-Elvdal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Rendalen Røde Kors",
@@ -1005,7 +1075,21 @@
     "coordinates": [61.7095241, 11.3164799],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Rendalen"
+    "city": "Rendalen",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Trysil Røde Kors",
+    "description": "Trysil Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid.",
+    "image": "https://www.rodekors.no/UI/logo_main.svg",
+    "address": "Flendalsvegen 194, 2420 TRYSIL",
+    "email": "post@trysilrkh.net",
+    "source": "https://www.rodekors.no/lokalforeninger/hedmark/trysil/",
+    "coordinates": [61.3308094, 12.243854],
+    "notes": null,
+    "organization": "Røde Kors",
+    "city": "Trysil",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vang Røde Kors",
@@ -1017,7 +1101,8 @@
     "coordinates": [60.811954, 11.1459003],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vang"
+    "city": "Vang",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Solør Røde Kors",
@@ -1029,7 +1114,8 @@
     "coordinates": [60.610625, 12.005759],
     "notes": "<p><a title=\"Lover Solør Røde Kors 2023.docx\" href=\"/globalassets/_distrikt-og-lokalforeninger/dk-hedmark/lokf/solor/lover-solor-rode-kors-2023.docx\">Lover Solør Røde Kors 2023.doc</a></p>",
     "organization": "Røde Kors",
-    "city": "Solor"
+    "city": "Solor",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Askøy Røde Kors",
@@ -1041,7 +1127,8 @@
     "coordinates": [60.4070189, 5.222771899999998],
     "notes": "<p><a href=\"https://www.facebook.com/askoyrodekors/\">Her finner du Askøy Røde Kors Facebook-side</a></p><div class=\"expander__outer\"><h2 class=\"expander__title\">Om oss</h2></div><div class=\"expander\"><div class=\"expander__item\"><div class=\"expander__inner\"><button type=\"button\" class=\"expander__head is-closed\"><span>Styret i Askøy Røde Kors</span></button><div class=\"expander__body is-hidden\"><ul><li>Leder Hans Birger Drange</li><li>Nestleder Lene Aase Marø</li><li>Kasserer Karina Linde Giertsen</li><li>Styremedlem Linn-Cecilie Falstad</li><li>Styremedlem Marit Godø Dempsey</li><li>Styremedlem Børge Emil Follesøy</li><li>Styremedlem Elisabeth Agathe Ravnanger</li></ul></div></div></div><div class=\"expander__item\"><div class=\"expander__inner\"><button type=\"button\" class=\"expander__head is-closed\"><span>Årsmøte 2017</span></button><div class=\"expander__body is-hidden\"><p>Årsmøte blir holdt 21. februar klokken 19:00 i Klampavikveien 9, Kleppestø.</p><p><a href=\"https://drive.google.com/file/d/1IZIqogOBFJtLeiqplrdcltIqzLn9oOh4/view?usp=sharing\"><strong>Møtebok finnes her.</strong></a></p></div></div></div></div>",
     "organization": "Røde Kors",
-    "city": "Askoy"
+    "city": "Askoy",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tolga Røde Kors",
@@ -1053,7 +1140,8 @@
     "coordinates": [62.3715699, 11.100816],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Tolga"
+    "city": "Tolga",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Austevoll Røde Kors",
@@ -1065,7 +1153,8 @@
     "coordinates": [60.096894, 5.226806],
     "notes": "<p>Her finner du oss på vår <a href=\"https://www.facebook.com/Austevoll-Røde-Kors-608723325896355/\">Facebook-side</a></p><h2>Ansattstøtte:</h2><div class=\"contact o-flag o-flag--rev\"><div class=\"o-flag__img\"><img src=\"/globalassets/_distrikt-og-lokalforeninger/dk-hordaland/blokker/ansatte-distrikt/ove-svart-hvitt.jpg?width=156&amp;quality=90\" alt=\"Ove, svart-hvitt\"></div><div class=\"o-flag__body\"><dl><dt>Ove Rio</dt><dd>Administrativ støtte: mottak av frivillige, kurs og drift.</dd><dt>E-post</dt><dd><a href=\"mailto:ove.rio@redcross.no\">ove.rio@redcross.no</a></dd><dt>Mobil</dt><dd>924 83 274</dd></dl></div></div>",
     "organization": "Røde Kors",
-    "city": "Austevoll"
+    "city": "Austevoll",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tynset Røde Kors Hjelpekorps",
@@ -1077,7 +1166,8 @@
     "coordinates": [62.2742908, 10.7768676],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Tynset"
+    "city": "Tynset",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Bergen Røde Kors",
@@ -1089,7 +1179,8 @@
     "coordinates": [60.40923110000001, 5.3224918],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Bergen"
+    "city": "Bergen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Arna og Åsane Røde Kors",
@@ -1101,7 +1192,8 @@
     "coordinates": [60.3943055, 5.3259192],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Arna-Og-Asane"
+    "city": "Arna-Og-Asane",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Dale Røde Kors",
@@ -1113,7 +1205,8 @@
     "coordinates": [60.5899527, 5.8211245],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Dale"
+    "city": "Dale",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Eidfjord Røde Kors",
@@ -1125,7 +1218,8 @@
     "coordinates": [60.4667799, 7.0701188],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Eidfjord"
+    "city": "Eidfjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Etne Røde Kors",
@@ -1137,7 +1231,8 @@
     "coordinates": [59.668545, 5.943332],
     "notes": "<p>Etne Røde Kors ble stiftet i 1948 og har ca. 300 medlemmer.</p><p>Medlemmene har flere områder de kan engasjere seg på. Lokalforeningen er den som holder alle trådene samlet. Vi har aktivitet i Hjelpekorps og i Omsorg.&nbsp;</p><p>Hjelpekorpset tar oppdrag med sanitetsvakter i tillegg til å yte en ordinær beredskapstjeneste. Etne Røde Kors er engasjerte i Frivilligsentralen.</p><p>I Etne sentrum, like ved Enge barnehage finner du Røde Kors huset. I fjellet, på Hjørnås, har vi en flott hytte.</p><p>Og for å ta det aller beste til slutt: vi har et knallkjekt sosialt miljø. Er det noe av dette som frister deg? Vi tar gjerne i mot flere medlemmer.</p>",
     "organization": "Røde Kors",
-    "city": "Etne"
+    "city": "Etne",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Bømlo Røde Kors",
@@ -1149,7 +1244,8 @@
     "coordinates": [59.8011502, 5.1866408],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Bomlo"
+    "city": "Bomlo",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Fana Røde Kors",
@@ -1161,7 +1257,8 @@
     "coordinates": [60.335042, 5.34294239999997],
     "notes": "<p>Vi trenger flere nye frivillige. Bli med!</p><h2 class=\"tiny-mce-medium-text\">Ansattstøtte:&nbsp;</h2><div class=\"contact o-flag o-flag--rev\"><div class=\"o-flag__img\"><img src=\"/globalassets/_distrikt-og-lokalforeninger/dk-hordaland/blokker/ansatte-distrikt/ove-svart-hvitt.jpg?width=156&amp;quality=90\" alt=\"Ove, svart-hvitt\"></div><div class=\"o-flag__body\"><dl><dt>Ove Rio</dt><dd>Administrativ støtte: mottak av frivillige, kurs og drift.</dd><dt>E-post</dt><dd><a href=\"mailto:ove.rio@redcross.no\">ove.rio@redcross.no</a></dd><dt>Mobil</dt><dd>924 83 274</dd></dl></div></div>",
     "organization": "Røde Kors",
-    "city": "Fana"
+    "city": "Fana",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Finse Røde Kors",
@@ -1173,7 +1270,8 @@
     "coordinates": [60.60301, 7.5020162],
     "notes": "<p>Finse er den høyestliggende stasjonen på Bergensbanen (1222 moh). Finse har kun noen få fastboende, de fleste knyttet til hotellvirksomheten hvor Finse Røde Kors har depot.</p><p>Plasseringen midt i høyfjellet gjør at Finse er et værutsatt sted hvor forholdene fort snur fra sol til snøfokk og dårlig sikt. Det er ingen veiforbindelse til Finse, noe som gjør området ekstra utsatt dersom det skulle skje en ulykke eller noen går seg bort i stormen.</p><p>De frivillige i Finse Røde Kors kjenner terrenget i detalj og kan dra ut og redde de som er gått seg bort. De bidrar til å gjøre det fantastiske fjellområdet på tryggere.</p><p>Finse Røde Kors er også en viktig bidragsgiver til Finsekurset, som er Norges kanskje fremste kurs i vinterredning.</p><p><a title=\"Finsekurset hovedside\" href=\"/lokalforeninger/hordaland/om/aktiviteter/finsekurset/\">Les mer om Finsekurset her.</a></p>",
     "organization": "Røde Kors",
-    "city": "Finse"
+    "city": "Finse",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Fjell Røde Kors",
@@ -1185,7 +1283,8 @@
     "coordinates": [60.3628449, 5.1168893],
     "notes": "<p>Ønsker du kontakt med oss ring<span class=\"phone-number\"><span class=\"tel clearfix e-icon-phone clicked\" style=\"display: block;\" data-phone=\"56 33 69 80\">56 33 69 80</span></span></p><p>Fjell Røde Kors har også eksterne hjemmesider.<br><a href=\"http://www.fjellrk.no/\" target=\"_top\">Trykk her for å besøke hjemmesiden til Fjell Røde Kors.</a></p><p>Ønsker du å leie lokaler hos oss, send en mail til utleie@fjellrk.no<br>eller ring 926 96 120</p><h2>Ansattstøtte</h2><div class=\"contact o-flag o-flag--rev\"><div class=\"o-flag__img\"><img src=\"/globalassets/_distrikt-og-lokalforeninger/dk-hordaland/blokker/ansatte-distrikt/ove-svart-hvitt.jpg?width=156&amp;quality=90\" alt=\"Ove, svart-hvitt\"></div><div class=\"o-flag__body\"><dl><dt>Ove Rio</dt><dd>Administrativ støtte: mottak av frivillige, kurs og drift.</dd><dt>E-post</dt><dd><a href=\"mailto:ove.rio@redcross.no\">ove.rio@redcross.no</a></dd><dt>Mobil</dt><dd>924 83 274</dd></dl></div></div>",
     "organization": "Røde Kors",
-    "city": "Fjell"
+    "city": "Fjell",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Eksingedalen og Modalen Røde Kors",
@@ -1197,7 +1296,8 @@
     "coordinates": [60.8147118, 5.8022421],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Eksingedalen-Og-Modalen"
+    "city": "Eksingedalen-Og-Modalen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Kvinnherad Røde Kors",
@@ -1209,7 +1309,8 @@
     "coordinates": [59.8641407, 5.746964599999956],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Kvinnherad"
+    "city": "Kvinnherad",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Laksevåg Røde Kors",
@@ -1221,7 +1322,8 @@
     "coordinates": [60.3874449, 5.2976395],
     "notes": "<p>I Laksevåg Røde Kors har vi aktiviteter innen Barnas Røde Kors (BARK), ungdomsaktivitetene Treffpunkt og RØFF, Besøkstjenesten, Norsktrening, Hjelpekorps og flerkultur.</p><p><a title=\"Hjemmeside\" href=\"https://www.laksevagrodekors.no/\">Her finner du vår egen hjemmeside!</a></p><p>Ved siden av dette tilbyr vi også en rekke andre tjenester til bedrifter og organisasjoner. Vi har blant annet sanitetsvakter, hvor vi stiller med personell og utstyr til arrangementer og fotballkamper, konserter og liknende. Vi arrangerer også førstehjelpskurs og beredskapsøvelser. Ta kontakt med vårt Hjelpekorps for mer informasjon.</p><p><strong>Hjelpekorps vakttelefon</strong>:&nbsp;93 45 40 01</p><p>Her finner du oss på vår <a href=\"https://nb-no.facebook.com/laksevagrkh/\">Facebook-side</a></p><h2>Ansattstøtte</h2><div class=\"contact o-flag o-flag--rev\"><div class=\"o-flag__img\"><img src=\"/globalassets/_distrikt-og-lokalforeninger/dk-hordaland/ansatt/bilde---anne-charlotte.jpg?width=156&amp;quality=90\" alt=\"Bilde - Anne Charlotte\"></div><div class=\"o-flag__body\"><dl><dt>Anne Charlotte Valaker Bruheim</dt><dd>Administrativ støtte: Mottak av frivillige, kurs og drift</dd><dt>Kontorsted</dt><dd>Fergehallen: Damsgårdsveien 221</dd><dt>E-post</dt><dd><a href=\"mailto:annecharlotte.bruheim@redcross.no\">annecharlotte.bruheim@redcross.no</a></dd><dt>Mobil</dt><dd>400 63 073</dd></dl></div></div><h3>Navneendring</h3><p><em>På årsmøtet 3. mars 2020, ble det vedtatt at Alvøen og Laksevåg Røde Kors endrer navn til Laksevåg Røde Kors.</em></p>",
     "organization": "Røde Kors",
-    "city": "Laksevag"
+    "city": "Laksevag",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Fusa Røde Kors",
@@ -1233,7 +1335,8 @@
     "coordinates": [60.2407343, 5.7450954],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Fusa"
+    "city": "Fusa",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Kinsarvik Røde Kors",
@@ -1245,7 +1348,8 @@
     "coordinates": [60.3757875, 6.7196524],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Kinsarvik"
+    "city": "Kinsarvik",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Odda Røde Kors",
@@ -1257,7 +1361,8 @@
     "coordinates": [60.0644649, 6.546018499999946],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Odda"
+    "city": "Odda",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Os Røde Kors",
@@ -1269,7 +1374,8 @@
     "coordinates": [60.198105, 5.4433207],
     "notes": "<p>Os Røde Kors er en forening lokalisert i vekstkommunen Bjørnafjorden, sør for Bergen.</p><p>Os Røde Kors kan skilte med over 60 års historie, har aktiviteter innen Barnas Røde Kors (BARK), Besøkstjeneste, Hjelpekorps og Beredskapsvakter.</p><p>I tillegg til dette kan vi tilby andre tjenester til private og organisasjoner som førstehjelpskurs, sanitetsvakter, salg og oppfølging av førstehjelpsutstyr (bl a hjertestarter).</p><p>Vi har mange aktiviteter som passer for alle - liten og stor!</p><p>Du kan også leie Røde Kors huset til ulike anledninger. Les mer om dette lengre ned på siden.&nbsp;</p>",
     "organization": "Røde Kors",
-    "city": "Os"
+    "city": "Os",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nordhordland Røde Kors",
@@ -1281,7 +1387,8 @@
     "coordinates": [60.5553217, 5.2693625],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Nordhordland"
+    "city": "Nordhordland",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Røldal Røde Kors",
@@ -1293,7 +1400,8 @@
     "coordinates": [59.832353, 6.82108530000005],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Roldal"
+    "city": "Roldal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Norheimsund Røde Kors",
@@ -1305,7 +1413,8 @@
     "coordinates": [60.3712494, 6.145961],
     "notes": "<p>Norheimsund Røde Kors Hjelpekorps benytter egne ekstern hjemmesider.</p><p>Besøk oss på: http://www.nrkh.no/</p>",
     "organization": "Røde Kors",
-    "city": "Norheimsund"
+    "city": "Norheimsund",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Samnanger Røde Kors",
@@ -1317,7 +1426,8 @@
     "coordinates": [60.6441875, 5.930780300000038],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Samnanger"
+    "city": "Samnanger",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Osterøy Røde Kors",
@@ -1329,7 +1439,8 @@
     "coordinates": [60.5255611, 5.4956333],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Osteroy"
+    "city": "Osteroy",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sveio Røde Kors",
@@ -1341,7 +1452,8 @@
     "coordinates": [59.5428214, 5.34904389999997],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sveio"
+    "city": "Sveio",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Stord Røde Kors",
@@ -1353,7 +1465,8 @@
     "coordinates": [59.7809398, 5.5005712],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Stord"
+    "city": "Stord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tysnes Røde Kors",
@@ -1365,7 +1478,8 @@
     "coordinates": [60.0417831, 5.5364471],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Tysnes"
+    "city": "Tysnes",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tyssedal Røde Kors",
@@ -1377,7 +1491,8 @@
     "coordinates": [60.1191434, 6.5560633],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Tyssedal"
+    "city": "Tyssedal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sund Røde Kors",
@@ -1389,7 +1504,8 @@
     "coordinates": [60.2617323, 5.110015],
     "notes": "<p>Sund Røde Kors holder nå på med å utarbeide beredskapsvakt ordningen for vårt område, vil du være med i dette arbeidet eller stå på liste for beredskapsvakt vil vi svært gjerne at du tar kontakt med oss. Les mer om beredskapsvakt i menyen lengre nede på denne siden.</p><p><a href=\"http://facebook.com/SundRodeKors\">Vår side på facebook</a></p><p><a href=\"/lokalforeninger/hordaland/sund/arsmeldinger-og-referat/\">Årsmeldinger og referat</a></p><p><a href=\"/lokalforeninger/hordaland/sund/om-sund-rode-kors/\">Litt historie, Sund Røde Kors</a></p><p><a href=\"/lokalforeninger/hordaland/sund/styre/\">STYRET I SUND RØDE KORS</a></p>",
     "organization": "Røde Kors",
-    "city": "Sund"
+    "city": "Sund",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vaksdal Røde Kors",
@@ -1401,7 +1517,8 @@
     "coordinates": [60.47664210000001, 5.740213900000072],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vaksdal"
+    "city": "Vaksdal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ulvik Røde Kors",
@@ -1413,7 +1530,8 @@
     "coordinates": [60.5677975, 6.9165306],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Ulvik"
+    "city": "Ulvik",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Voss Røde Kors",
@@ -1425,7 +1543,8 @@
     "coordinates": [60.6347028, 6.440392],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Voss"
+    "city": "Voss",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vossestrand Røde Kors",
@@ -1437,7 +1556,8 @@
     "coordinates": [60.7918472, 6.5085056],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vossestrand"
+    "city": "Vossestrand",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Øygarden Røde Kors",
@@ -1449,7 +1569,8 @@
     "coordinates": [60.5139549, 4.9093996],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Oygarden"
+    "city": "Oygarden",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Aalesund Røde Kors",
@@ -1461,7 +1582,8 @@
     "coordinates": [62.4716525, 6.166475900000023],
     "notes": "<p>I Aalesund Røde Kors har vi aktiviteter innen Barnas Røde Kors, Besøkstjeneste, Røde Kors Ungdom og Hjelpekorps. Mange av våre aktiviteter holdes på Fellesverket. Velkommen som deltaker eller frivillig i Aalesund Røde Kors!</p><p><a title=\"Aalesund Røde Kors\" href=\"/lokalforeninger/more-og-romsdal/aalesund/om-oss/\">Les om Aalesund Røde Kors</a></p><p><a title=\"Førstehjelpskurs og sanitet\" href=\"/lokalforeninger/more-og-romsdal/aalesund/om-oss/forstehjelpskurs-og-sanitet/\">Bestill førstehjelpskurs og sanitetsvakter</a></p><p><a href=\"/lokalforeninger/more-og-romsdal/aalesund/om-oss/nye-frivillige/\">Informasjon til nye frivillige og påmelding til informasjonsmøter og kurs</a></p><p><a href=\"/lokalforeninger/more-og-romsdal/aalesund/om-oss/stott-vart-arbeid/\">Vil du støtte vårt arbeid?</a></p><p><a title=\"Ørskogleiren\" href=\"/lokalforeninger/more-og-romsdal/aalesund/om-oss/utleie/\" target=\"_blank\" rel=\"noopener\">Leie av Ørskogleiren og Røde Kors huset i Ålesund</a></p>",
     "organization": "Røde Kors",
-    "city": "Aalesund"
+    "city": "Aalesund",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Øystese Røde Kors",
@@ -1473,7 +1595,8 @@
     "coordinates": [60.386689, 6.2007782],
     "notes": "<p>Røde Kors er der når noko skjer. På den andre sida av verda og andre sida av vegen.&nbsp;</p><p>Er du interessert i og læra meir om friluftsliv og fyrstehjelp?&nbsp;</p><p>Ynskjer du å hjelpa andre som leksehjelpar, omsorgsven for norske/flyktningar eller som beredskapsvakt?&nbsp;</p><p><strong>Då har Øystese Røde Kors bruk for deg!</strong></p>",
     "organization": "Røde Kors",
-    "city": "Oystese"
+    "city": "Oystese",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Eidsdal-Norddal Røde Kors",
@@ -1485,7 +1608,8 @@
     "coordinates": [62.2623317, 7.170771400000035],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Eidsdal-Norddal"
+    "city": "Eidsdal-Norddal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ålvik Røde Kors",
@@ -1497,7 +1621,8 @@
     "coordinates": [60.4312911, 6.4324249],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Alvik"
+    "city": "Alvik",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hustadvika Røde Kors",
@@ -1509,7 +1634,8 @@
     "coordinates": [62.97842799999999, 7.314542200000001],
     "notes": "<p>Hustadvika Røde Kors jobber med å skape aktiviteter som kan forebygge ensomhet og utenforskap, og ikke minst skape gode opplevelser for andre! Vi ønsker å ha aktiviteter og tilbud for folk i alle aldre, uavhengig av hvor du kommer fra eller hvem du er. En oversikt over aktivitetene våre finner du lengre ned på siden.</p><p>Hustadvika Røde Kors drives av frivillige som ønsker å skape en bedre hverdag for andre. Vi er alltid på utkikk på folk som ønsker å sette av litt tid i hverdagen for å bidra. Og om det er noen spesifikke aktiviteter som du ønsker å hjelpe til å starte opp, så ta direkte kontakt med oss. Vi blir jublende glad for enhver som ønsker å bidra!</p><p>Her finner du oss på vår&nbsp;<a title=\"Facebookside\" href=\"https://www.facebook.com/Hustadvika-R%C3%B8de-Kors-101410394867268/\" target=\"_blank\" rel=\"noopener\">Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Hustadvika"
+    "city": "Hustadvika",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Kristiansund og Omegn Røde Kors",
@@ -1521,7 +1647,8 @@
     "coordinates": [63.1187275, 7.749492000000032],
     "notes": "<p>Under finner dere alle våre aktiviteter. Vi håper du har lyst til å være frivillig sammen med oss. Ta kontakt hvis du har spørsmål.</p><p>Her finner du oss på vår <a title=\"Kristiansund Røde Kors Facebook\" href=\"https://www.facebook.com/kristiansundrodekors/\" target=\"_blank\" rel=\"noopener\">Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Kristiansund-Og-Omegn"
+    "city": "Kristiansund-Og-Omegn",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Langevåg Røde Kors",
@@ -1533,7 +1660,8 @@
     "coordinates": [62.4378914, 6.1836925000000065],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Langevag"
+    "city": "Langevag",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Molde Røde Kors",
@@ -1545,7 +1673,8 @@
     "coordinates": [62.7397404, 7.161514399999987],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Molde"
+    "city": "Molde",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Rauma Røde Kors",
@@ -1557,7 +1686,8 @@
     "coordinates": [62.5677084, 7.7043582000000015],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Rauma"
+    "city": "Rauma",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Skodje Røde Kors",
@@ -1569,7 +1699,8 @@
     "coordinates": [62.5037721, 6.6979934],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Skodje"
+    "city": "Skodje",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Spjelkavik Røde Kors",
@@ -1581,7 +1712,8 @@
     "coordinates": [62.46111610000001, 6.38378309999996],
     "notes": "<p><a href=\"/lokalforeninger/more-og-romsdal/spjelkavik/om-oss/om-oss/\">Om Spjelkavik Røde Kors</a></p><p><a href=\"/lokalforeninger/more-og-romsdal/spjelkavik/om-oss/opplaring-av-frivillige/\">Opplæring av frivillige</a></p><p><a title=\"Førstehjelp og sanitet\" href=\"/lokalforeninger/more-og-romsdal/spjelkavik/om-oss/forstehjelpskurs-og-sanitet/\">Bestill førstehjelpskurs og sanitetsvakter</a></p><p><a title=\"Støtt vårt arbeid\" href=\"/lokalforeninger/more-og-romsdal/spjelkavik/om-oss/stott-vart-arbeid/\">Støtt vårt arbeid</a></p><p>Spjelkavik Røde Kors finner du både på&nbsp;<a href=\"https://nb-no.facebook.com/R%C3%B8de-Kors-Spjelkavik-193618924010297/\">Facebook</a>&nbsp;og på <a href=\"https://www.instagram.com/spjelkavik_rkh/\" target=\"_blank\" rel=\"noopener\">Instagram</a>.</p>",
     "organization": "Røde Kors",
-    "city": "Spjelkavik"
+    "city": "Spjelkavik",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Brattvåg Røde Kors",
@@ -1593,7 +1725,8 @@
     "coordinates": [62.599812, 6.444248],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Brattvag"
+    "city": "Brattvag",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Stranda Røde Kors",
@@ -1605,7 +1738,8 @@
     "coordinates": [62.31043150000001, 6.937666300000046],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Stranda"
+    "city": "Stranda",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sunndal Røde Kors",
@@ -1617,7 +1751,8 @@
     "coordinates": [62.66372560000001, 8.616172199999937],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sunndal"
+    "city": "Sunndal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sykkylven Røde Kors",
@@ -1629,7 +1764,8 @@
     "coordinates": [62.39035140000001, 6.576003],
     "notes": "<p>Her finner du <a title=\"Sykkylven Facebookside\" href=\"https://www.facebook.com/SykkylvenRodeKors\">Sykkylven Røde Kors Facebook-side</a></p><p>Her finner du&nbsp;<a title=\"Sykkylven Hjelpekoros Facebookside\" href=\"https://nb-no.facebook.com/SykkylvenRKH/\">Sykkylven Røde Kors Hjelpekorps Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Sykkylven"
+    "city": "Sykkylven",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sørøyane Røde Kors",
@@ -1641,7 +1777,8 @@
     "coordinates": [62.3387565, 5.890537399999971],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Soroyane"
+    "city": "Soroyane",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tingvoll Røde Kors",
@@ -1653,7 +1790,8 @@
     "coordinates": [62.9092765, 8.206643999999983],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Tingvoll"
+    "city": "Tingvoll",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tresfjord Røde Kors",
@@ -1665,7 +1803,8 @@
     "coordinates": [62.5218631, 7.1201805],
     "notes": "<p>Her finner du Tresfjord Røde Kors sin&nbsp;<a href=\"https://www.facebook.com/tresfjordrodekors/\">Facebook-side</a></p><p>Her finner du Tresfjord Røde Kors Omsorgs <a href=\"https://www.facebook.com/Tresfjord-R%C3%B8de-Kors-Omsorg-1519326011700950/?fref=ts\">Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Tresfjord"
+    "city": "Tresfjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vanylven Røde Kors",
@@ -1677,7 +1816,8 @@
     "coordinates": [62.08722770000001, 5.734181199999999],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vanylven"
+    "city": "Vanylven",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Volda Røde Kors",
@@ -1689,7 +1829,8 @@
     "coordinates": [62.14937269999999, 6.063088600000015],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Volda"
+    "city": "Volda",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ørskog Røde Kors",
@@ -1701,7 +1842,8 @@
     "coordinates": [62.482227, 6.825874],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Orskog"
+    "city": "Orskog",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ørsta Røde Kors",
@@ -1713,7 +1855,8 @@
     "coordinates": [62.2031939, 6.113096100000007],
     "notes": "<p>Under finner dere alle våre aktiviteter. Vi håper du har lyst til å være frivillig sammen med oss. Ta kontakt hvis du har spørsmål.</p>",
     "organization": "Røde Kors",
-    "city": "Orsta"
+    "city": "Orsta",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Andøy Røde Kors",
@@ -1725,7 +1868,8 @@
     "coordinates": [69.3112811, 16.07932949999997],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Andoy"
+    "city": "Andoy",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vatne og Tennfjord Røde Kors",
@@ -1737,7 +1881,8 @@
     "coordinates": [62.5583261, 6.6171047],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vatne-Og-Tennfjord"
+    "city": "Vatne-Og-Tennfjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ankenes Røde Kors",
@@ -1749,7 +1894,8 @@
     "coordinates": [68.419903, 17.3840181],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Ankenes"
+    "city": "Ankenes",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vestnes Røde Kors",
@@ -1761,7 +1907,8 @@
     "coordinates": [62.6202531, 7.0588138],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vestnes"
+    "city": "Vestnes",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Beiarn Røde Kors",
@@ -1773,7 +1920,8 @@
     "coordinates": [66.920931, 14.771598],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Beiarn"
+    "city": "Beiarn",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Bodø Røde Kors",
@@ -1785,7 +1933,8 @@
     "coordinates": [67.28496609999999, 14.3884417],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Bodo"
+    "city": "Bodo",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Fauske Røde Kors",
@@ -1797,7 +1946,8 @@
     "coordinates": [67.2525625, 15.357895399999961],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Fauske"
+    "city": "Fauske",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Brønnøysund Røde Kors",
@@ -1809,7 +1959,8 @@
     "coordinates": [65.4748755, 12.2116394],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Bronnoysund"
+    "city": "Bronnoysund",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Glomfjord Røde Kors",
@@ -1821,7 +1972,8 @@
     "coordinates": [66.8196127, 13.956460800000059],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Glomfjord"
+    "city": "Glomfjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hamarøy Røde Kors",
@@ -1833,7 +1985,8 @@
     "coordinates": [68.127319, 15.879833],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Hamaroy"
+    "city": "Hamaroy",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ballangen Røde Kors",
@@ -1845,7 +1998,8 @@
     "coordinates": [68.342872, 16.8313381],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Ballangen"
+    "city": "Ballangen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Leiranger Røde Kors",
@@ -1857,7 +2011,8 @@
     "coordinates": [67.7371387, 14.8101052],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Leiranger"
+    "city": "Leiranger",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hadsel Røde Kors",
@@ -1869,7 +2024,8 @@
     "coordinates": [68.5670003, 14.9133484],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Hadsel"
+    "city": "Hadsel",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lødingen Røde Kors",
@@ -1881,7 +2037,8 @@
     "coordinates": [68.4227206, 15.9581306],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Lodingen"
+    "city": "Lodingen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Moskenes Røde Kors",
@@ -1893,7 +2050,8 @@
     "coordinates": [67.9324675, 13.0887684],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Moskenes"
+    "city": "Moskenes",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Rana Røde Kors",
@@ -1905,7 +2063,8 @@
     "coordinates": [66.3174335, 14.2249356],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Rana"
+    "city": "Rana",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Narvik Røde Kors",
@@ -1917,7 +2076,8 @@
     "coordinates": [68.4271216, 17.434918],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Narvik"
+    "city": "Narvik",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nordfjord Røde Kors",
@@ -1929,7 +2089,8 @@
     "coordinates": [67.3484259, 15.5968083],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Nordfjord"
+    "city": "Nordfjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sandnessjøen Røde Kors",
@@ -1941,7 +2102,8 @@
     "coordinates": [66.0190459, 12.626567399999999],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sandnessjoen"
+    "city": "Sandnessjoen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sortland Røde Kors",
@@ -1953,7 +2115,8 @@
     "coordinates": [68.6966041, 15.413257799999997],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sortland"
+    "city": "Sortland",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Saltdal Røde Kors Omsorg",
@@ -1965,7 +2128,8 @@
     "coordinates": [67.1014386, 15.3935626],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Saltdal-Omsorg"
+    "city": "Saltdal-Omsorg",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Svolvær Røde Kors",
@@ -1977,7 +2141,8 @@
     "coordinates": [68.2473463, 14.548962800000027],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Svolvar"
+    "city": "Svolvar",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Saltdal Røde Kors Hjelpekorps",
@@ -1989,7 +2154,8 @@
     "coordinates": [67.1014386, 15.3935626],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Saltdal-Rkh"
+    "city": "Saltdal-Rkh",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vefsn Røde Kors",
@@ -2001,7 +2167,8 @@
     "coordinates": [65.8282096, 13.19516180000005],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vefsn"
+    "city": "Vefsn",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vestvågøy Røde Kors",
@@ -2013,7 +2180,8 @@
     "coordinates": [68.1456032, 13.634805099999994],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vestvagoy"
+    "city": "Vestvagoy",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sulitjelma Røde Kors",
@@ -2025,7 +2193,8 @@
     "coordinates": [67.1329051, 16.0773781],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sulitjelma"
+    "city": "Sulitjelma",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Dovre Røde Kors",
@@ -2037,7 +2206,8 @@
     "coordinates": [61.9865653, 9.2495422],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Dovre"
+    "city": "Dovre",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Øksnes Røde Kors",
@@ -2049,7 +2219,8 @@
     "coordinates": [68.9129025, 15.0760421],
     "notes": "<p>Øksnes Røde Kors&nbsp;</p>",
     "organization": "Røde Kors",
-    "city": "Oksnes"
+    "city": "Oksnes",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lesja Røde Kors",
@@ -2061,7 +2232,8 @@
     "coordinates": [62.1358978, 8.9063451],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Lesja"
+    "city": "Lesja",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Bagn Røde Kors",
@@ -2073,7 +2245,8 @@
     "coordinates": [60.8225956, 9.5523106],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Bagn"
+    "city": "Bagn",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lom og Bøverdalen Røde Kors",
@@ -2085,7 +2258,8 @@
     "coordinates": [61.8423914, 8.5735404],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Boverdalen"
+    "city": "Boverdalen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nord-Aurdal Røde Kors",
@@ -2097,7 +2271,8 @@
     "coordinates": [60.9244603, 9.4149741],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Nord-Aurdal"
+    "city": "Nord-Aurdal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ringebu Røde Kors",
@@ -2109,7 +2284,8 @@
     "coordinates": [61.5306654, 10.1358545],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Ringebu"
+    "city": "Ringebu",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Gausdal Røde Kors",
@@ -2121,7 +2297,8 @@
     "coordinates": [61.2526369, 10.1835823],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Gausdal"
+    "city": "Gausdal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Brandbu Røde Kors",
@@ -2133,7 +2310,8 @@
     "coordinates": [60.4207532, 10.5070018],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Brandbu"
+    "city": "Brandbu",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Etnedal Røde Kors",
@@ -2145,7 +2323,8 @@
     "coordinates": [60.99499, 9.5814041],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Etnedal"
+    "city": "Etnedal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Gjøvik Røde Kors",
@@ -2157,7 +2336,8 @@
     "coordinates": [60.7953009, 10.6788396],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Gjovik"
+    "city": "Gjovik",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Høre/Vestre Slidre Røde Kors",
@@ -2169,7 +2349,8 @@
     "coordinates": [61.140683, 8.82333],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Hore"
+    "city": "Hore",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Grindaheim Røde Kors",
@@ -2181,7 +2362,8 @@
     "coordinates": [61.1253133, 8.5718254],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Grindaheim"
+    "city": "Grindaheim",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lillehammer Røde Kors",
@@ -2193,19 +2375,8 @@
     "coordinates": [61.12073700000001, 10.468225899999993],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Lillehammer"
-  },
-  {
-    "name": "Hedalen Røde Kors",
-    "description": "Vi har aktiviteter innen Hjelpekorps",
-    "image": "https://www.rodekors.no/UI/logo_main.svg",
-    "address": "Postboks 48., 3582 Hedalen",
-    "email": "post@hedalsfjellet.no",
-    "source": "https://www.rodekors.no/lokalforeninger/oppland/hedalen/",
-    "coordinates": [61.2037169, 8.9639439],
-    "notes": null,
-    "organization": "Røde Kors",
-    "city": "Hedalen"
+    "city": "Lillehammer",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lunner Røde Kors",
@@ -2217,7 +2388,21 @@
     "coordinates": [60.209102, 10.709403],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Lunner"
+    "city": "Lunner",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Hedalen Røde Kors",
+    "description": "Vi har aktiviteter innen Hjelpekorps",
+    "image": "https://www.rodekors.no/UI/logo_main.svg",
+    "address": "Postboks 48., 3582 Hedalen",
+    "email": "post@hedalsfjellet.no",
+    "source": "https://www.rodekors.no/lokalforeninger/oppland/hedalen/",
+    "coordinates": [61.2037169, 8.9639439],
+    "notes": null,
+    "organization": "Røde Kors",
+    "city": "Hedalen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Jevnaker Røde Kors",
@@ -2229,7 +2414,8 @@
     "coordinates": [60.2484799, 10.4022639],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Jevnaker"
+    "city": "Jevnaker",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nord-Fron Røde Kors",
@@ -2241,7 +2427,8 @@
     "coordinates": [61.5964906, 9.7361913],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Nord-Fron"
+    "city": "Nord-Fron",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Redalen Røde Kors",
@@ -2253,7 +2440,8 @@
     "coordinates": [60.9518896, 10.6206391],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Redalen"
+    "city": "Redalen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nordre Land Røde Kors",
@@ -2265,7 +2453,8 @@
     "coordinates": [60.8347165, 10.0739023],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Nordre-Land"
+    "city": "Nordre-Land",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Skjåk Røde Kors",
@@ -2277,7 +2466,8 @@
     "coordinates": [61.8980373, 8.2426322],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Skjak-Rode-Kors"
+    "city": "Skjak-Rode-Kors",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Søndre Land Røde Kors",
@@ -2289,19 +2479,8 @@
     "coordinates": [60.699266, 10.3509479],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sondre-Land"
-  },
-  {
-    "name": "Sør-Fron Røde Kors",
-    "description": "Sør-Fron Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid og BARK (Barnas Røde Kors).",
-    "image": "https://www.rodekors.no/UI/logo_main.svg",
-    "address": "Sigurdvegen 7, 2647 SØR-FRON",
-    "email": "sor-fron@rodekors.org",
-    "source": "https://www.rodekors.no/lokalforeninger/oppland/sor-fron/",
-    "coordinates": [61.5775447, 9.8542189],
-    "notes": null,
-    "organization": "Røde Kors",
-    "city": "Sor-Fron"
+    "city": "Sondre-Land",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Otta Røde Kors",
@@ -2313,7 +2492,21 @@
     "coordinates": [61.7712448, 9.5352541],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Otta"
+    "city": "Otta",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Sør-Fron Røde Kors",
+    "description": "Sør-Fron Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid og BARK (Barnas Røde Kors).",
+    "image": "https://www.rodekors.no/UI/logo_main.svg",
+    "address": "Sigurdvegen 7, 2647 SØR-FRON",
+    "email": "sor-fron@rodekors.org",
+    "source": "https://www.rodekors.no/lokalforeninger/oppland/sor-fron/",
+    "coordinates": [61.5775447, 9.8542189],
+    "notes": null,
+    "organization": "Røde Kors",
+    "city": "Sor-Fron",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sør-Aurdal Røde Kors",
@@ -2325,7 +2518,8 @@
     "coordinates": [60.8225956, 9.5523106],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sor-Aurdal"
+    "city": "Sor-Aurdal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vågå Røde Kors",
@@ -2337,7 +2531,8 @@
     "coordinates": [61.87826, 9.0950009],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vaga"
+    "city": "Vaga",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Øystre Slidre Røde Kors",
@@ -2349,7 +2544,8 @@
     "coordinates": [61.1971926, 8.9813763],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Oystre-Slidre"
+    "city": "Oystre-Slidre",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Østre Toten Røde Kors",
@@ -2361,7 +2557,8 @@
     "coordinates": [60.6739717, 10.8134458],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Ostre-Toten"
+    "city": "Ostre-Toten",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Øyer Tretten Røde Kors",
@@ -2373,7 +2570,8 @@
     "coordinates": [61.2630319, 10.416242],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Oyer-Tretten"
+    "city": "Oyer-Tretten",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Egersund og Dalane Røde Kors",
@@ -2385,7 +2583,8 @@
     "coordinates": [58.4701202, 6.022608200000036],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Egersund-Og-Dalane"
+    "city": "Egersund-Og-Dalane",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Flekkefjord Røde Kors",
@@ -2397,7 +2596,8 @@
     "coordinates": [58.2947455, 6.663832900000001],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Flekkefjord"
+    "city": "Flekkefjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Haugesund Røde Kors",
@@ -2409,7 +2609,8 @@
     "coordinates": [59.4194912, 5.268607900000006],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Haugesund"
+    "city": "Haugesund",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hjelmeland Røde Kors",
@@ -2421,7 +2622,8 @@
     "coordinates": [59.2343432, 6.179413],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Hjelmeland"
+    "city": "Hjelmeland",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Bokn Røde Kors",
@@ -2433,7 +2635,8 @@
     "coordinates": [59.2126342, 5.4379501],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Bokn"
+    "city": "Bokn",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Kverneland Røde Kors",
@@ -2445,7 +2648,8 @@
     "coordinates": [58.780278, 5.723943],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Kverneland"
+    "city": "Kverneland",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Bryne Røde Kors",
@@ -2457,7 +2661,8 @@
     "coordinates": [58.735525, 5.6478183],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Bryne"
+    "city": "Bryne",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nærbø Røde Kors",
@@ -2469,7 +2674,8 @@
     "coordinates": [58.6663292, 5.6447583],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Narbo"
+    "city": "Narbo",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sandnes Røde Kors",
@@ -2481,7 +2687,8 @@
     "coordinates": [58.85938469999999, 5.743249399999968],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sandnes"
+    "city": "Sandnes",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sola Røde Kors",
@@ -2493,7 +2700,8 @@
     "coordinates": [58.869025, 5.661707],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sola"
+    "city": "Sola",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Stavanger Røde Kors",
@@ -2505,7 +2713,8 @@
     "coordinates": [58.9597733, 5.7369237],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Stavanger"
+    "city": "Stavanger",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Suldal Røde Kors",
@@ -2517,7 +2726,8 @@
     "coordinates": [59.4819856, 6.2711293],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Suldal"
+    "city": "Suldal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Karmøy Røde Kors",
@@ -2529,7 +2739,8 @@
     "coordinates": [59.2835845, 5.3066975],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Karmoy"
+    "city": "Karmoy",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Askvoll Røde Kors",
@@ -2541,7 +2752,8 @@
     "coordinates": [61.3497525, 5.0755521],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Askvoll"
+    "city": "Askvoll",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sauda Røde Kors",
@@ -2553,7 +2765,8 @@
     "coordinates": [59.6543687, 6.3710623],
     "notes": "<p><a title=\"Om oss\" href=\"/lokalforeninger/rogaland/sauda/om-oss/\" target=\"_top\">Kontakt oss</a></p><p>Vakttelefon Hjelpekorps: 95 96 91 20</p><p>Her finner du Sauda Røde Kors Hjelpekorps <a href=\"https://www.facebook.com/SaudaRKH/\">Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Sauda"
+    "city": "Sauda",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Aurland Røde Kors",
@@ -2565,7 +2778,8 @@
     "coordinates": [60.9036694, 7.1841091],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Aurland"
+    "city": "Aurland",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Balestrand Røde Kors",
@@ -2577,7 +2791,8 @@
     "coordinates": [61.209575, 6.529176],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Balestrand"
+    "city": "Balestrand",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Fjaler Røde Kors",
@@ -2589,7 +2804,8 @@
     "coordinates": [61.339577, 5.201306],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Fjaler"
+    "city": "Fjaler",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vindafjord Røde Kors",
@@ -2601,7 +2817,8 @@
     "coordinates": [59.4981186, 5.9025945],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vindafjord"
+    "city": "Vindafjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Eid Røde Kors",
@@ -2613,7 +2830,8 @@
     "coordinates": [61.907681, 5.9891381],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Eid"
+    "city": "Eid",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Gaular Røde Kors",
@@ -2625,7 +2843,8 @@
     "coordinates": [61.3254728, 5.7967607],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Gaular"
+    "city": "Gaular",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Gloppen Røde Kors",
@@ -2637,7 +2856,8 @@
     "coordinates": [61.776204, 6.214234],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Gloppen"
+    "city": "Gloppen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Gulen Røde Kors",
@@ -2649,7 +2869,8 @@
     "coordinates": [60.9818489, 5.0664499],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Gulen"
+    "city": "Gulen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Flora Røde Kors",
@@ -2661,7 +2882,8 @@
     "coordinates": [61.5842854, 5.0193609],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Flora"
+    "city": "Flora",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Førde Røde Kors",
@@ -2673,7 +2895,8 @@
     "coordinates": [61.4521759, 5.8571725],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Forde"
+    "city": "Forde",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Høyanger Røde Kors",
@@ -2685,7 +2908,8 @@
     "coordinates": [61.2206281, 6.0809116],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Hoyanger"
+    "city": "Hoyanger",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Leikanger Røde Kors",
@@ -2697,7 +2921,8 @@
     "coordinates": [61.1832215, 6.7949081],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Leikanger"
+    "city": "Leikanger",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Jølster Røde Kors",
@@ -2709,7 +2934,8 @@
     "coordinates": [61.5714843, 6.4791646],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Jolster"
+    "city": "Jolster",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Luster Røde Kors",
@@ -2721,7 +2947,8 @@
     "coordinates": [61.411834, 7.282485],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Luster"
+    "city": "Luster",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lærdal Røde Kors",
@@ -2733,7 +2960,8 @@
     "coordinates": [61.098921, 7.487713],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Lardal"
+    "city": "Lardal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hyllestad Røde Kors",
@@ -2745,7 +2973,8 @@
     "coordinates": [61.1683881, 5.2496216],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Hyllestad"
+    "city": "Hyllestad",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Naustdal Røde Kors",
@@ -2757,7 +2986,8 @@
     "coordinates": [61.5095147, 5.716199],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Naustdal"
+    "city": "Naustdal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sogndal Røde Kors",
@@ -2769,7 +2999,8 @@
     "coordinates": [61.227443, 7.1001775],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sogndal"
+    "city": "Sogndal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Olden Raude Kross",
@@ -2781,7 +3012,8 @@
     "coordinates": [61.8349038, 6.8127028],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Olden"
+    "city": "Olden",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Svelgen-Bremanger Røde Kors",
@@ -2793,7 +3025,8 @@
     "coordinates": [61.768101, 5.2937854],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Svelgen-Bremanger"
+    "city": "Svelgen-Bremanger",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Selje Røde Kors",
@@ -2805,7 +3038,8 @@
     "coordinates": [62.044272, 5.3474511],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Selje"
+    "city": "Selje",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vikane Røde Kors",
@@ -2817,7 +3051,8 @@
     "coordinates": [61.857437, 6.607496],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vikane"
+    "city": "Vikane",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Stryn Røde Kors",
@@ -2829,7 +3064,8 @@
     "coordinates": [61.9043319, 6.7236373],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Stryn"
+    "city": "Stryn",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vik Røde Kors",
@@ -2841,7 +3077,8 @@
     "coordinates": [61.0874123, 6.5803984],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vik"
+    "city": "Vik",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Vågsøy Røde Kors",
@@ -2853,7 +3090,8 @@
     "coordinates": [61.9336888, 5.1129133],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Vagsoy"
+    "city": "Vagsoy",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Drangedal Røde Kors",
@@ -2865,7 +3103,8 @@
     "coordinates": [59.0961978, 9.0526952],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Drangedal"
+    "city": "Drangedal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Fyresdal Røde Kors",
@@ -2877,7 +3116,8 @@
     "coordinates": [59.3241653, 8.1520531],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Fyresdal"
+    "city": "Fyresdal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Gjerpen Røde Kors",
@@ -2889,7 +3129,8 @@
     "coordinates": [59.1706501, 9.6458773],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Gjerpen"
+    "city": "Gjerpen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Bø og Sauherad Røde Kors",
@@ -2901,7 +3142,8 @@
     "coordinates": [59.4120622, 9.0706776],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Bo-Og-Sauherad"
+    "city": "Bo-Og-Sauherad",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hjartdal Røde Kors Hjelpekorps",
@@ -2913,7 +3155,8 @@
     "coordinates": [59.7337835, 8.8397306],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Hjartdal"
+    "city": "Hjartdal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Årdal Røde Kors",
@@ -2925,7 +3168,8 @@
     "coordinates": [61.236136, 7.7025037],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Ardal"
+    "city": "Ardal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Bamble Røde Kors",
@@ -2937,7 +3181,8 @@
     "coordinates": [59.043879, 9.6952755],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Bamble"
+    "city": "Bamble",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nome Røde Kors",
@@ -2949,7 +3194,8 @@
     "coordinates": [59.2820645, 9.266051],
     "notes": "<p>Webside: <a href=\"https://nomerodekors.no/\">https://nomerodekors.no/</a></p><p>Vakttelefon Hjelpekorps: 97 52 36 95</p><p>Her finner du Nome Røde Kors&nbsp;<a href=\"https://www.facebook.com/Nome-R%C3%B8de-Kors-Hjelpekorps-464101426987806/\">Facebook-side</a></p><h2>AKTIVITETER:</h2><ul><li>Barnas Røde Kors (BARK)</li><li>Omsorgstjenester</li><li>Branngruppe</li><li>E-Sport</li><li>Nome RK Café</li><li>Norsktrening</li><li>Nettverksbygging</li><li>Røde Kors Butikk</li><li>Treffpunkt 13-30 år</li><li>Røde Kors Ungdom</li></ul>",
     "organization": "Røde Kors",
-    "city": "Nome"
+    "city": "Nome",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Notodden Røde Kors",
@@ -2961,7 +3207,8 @@
     "coordinates": [59.5652179, 9.256266],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Notodden"
+    "city": "Notodden",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Porsgrunn Røde Kors",
@@ -2973,7 +3220,8 @@
     "coordinates": [59.1359538, 9.6626813],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Porsgrunn"
+    "city": "Porsgrunn",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Rjukan og Tinn Røde Kors",
@@ -2985,7 +3233,8 @@
     "coordinates": [59.8768886, 8.6008011],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Rjukan-Og-Tinn"
+    "city": "Rjukan-Og-Tinn",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Seljord Røde Kors",
@@ -2997,7 +3246,8 @@
     "coordinates": [59.481553, 8.6315842],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Seljord"
+    "city": "Seljord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Kragerø Røde Kors",
@@ -3009,7 +3259,8 @@
     "coordinates": [58.8712399, 9.4064837],
     "notes": "<p>For mer informasjon ta kontakt med:<br><strong>Antonia Bernal</strong><br>Tlf: 90 65 84 50</p><div class=\"cta-button-wrapper\"><a class=\"cta-button\" href=\"https://www.mittrodekors.no/\" title=\"Bli frivillig i Røde Kors!\"><div class=\"cta-button__text\">Bli frivillig</div><div class=\"cta-button__icon\"><svg width=\"21\" height=\"16\" viewBox=\"0 0 21 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20.6486 8.7071C21.0391 8.31658 21.0391 7.68341 20.6486 7.29289L14.2846 0.928929C13.8941 0.538405 13.2609 0.538405 12.8704 0.92893C12.4799 1.31945 12.4799 1.95262 12.8704 2.34314L18.5273 8L12.8704 13.6569C12.4799 14.0474 12.4799 14.6805 12.8704 15.0711C13.2609 15.4616 13.8941 15.4616 14.2846 15.0711L20.6486 8.7071ZM3.87409e-08 9L19.9415 9L19.9415 7L-3.87409e-08 7L3.87409e-08 9Z\"></path></svg></div></a></div>",
     "organization": "Røde Kors",
-    "city": "Kragero"
+    "city": "Kragero",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Siljan Røde Kors",
@@ -3021,7 +3272,8 @@
     "coordinates": [59.9155229, 10.757790600000021],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Siljan"
+    "city": "Siljan",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Skien Røde Kors",
@@ -3033,19 +3285,8 @@
     "coordinates": [59.2020949, 9.5865379],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Skien"
-  },
-  {
-    "name": "Vinje og Haukeli Røde Kors",
-    "description": "Vinje og Haukeli Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid.",
-    "image": "https://www.rodekors.no/UI/logo_main.svg",
-    "address": "Industrivegen 19, 3895 EDLAND",
-    "email": "vhrkhj@gmail.com",
-    "source": "https://www.rodekors.no/lokalforeninger/telemark/vinje-og-haukeli/",
-    "coordinates": [59.57056670000001, 7.991616199999953],
-    "notes": null,
-    "organization": "Røde Kors",
-    "city": "Vinje-Og-Haukeli"
+    "city": "Skien",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nissedal Røde Kors",
@@ -3057,7 +3298,21 @@
     "coordinates": [59.020534, 8.5219703],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Nissedal"
+    "city": "Nissedal",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Vinje og Haukeli Røde Kors",
+    "description": "Vinje og Haukeli Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid.",
+    "image": "https://www.rodekors.no/UI/logo_main.svg",
+    "address": "Industrivegen 19, 3895 EDLAND",
+    "email": "vhrkhj@gmail.com",
+    "source": "https://www.rodekors.no/lokalforeninger/telemark/vinje-og-haukeli/",
+    "coordinates": [59.57056670000001, 7.991616199999953],
+    "notes": null,
+    "organization": "Røde Kors",
+    "city": "Vinje-Og-Haukeli",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Bardu Røde Kors",
@@ -3069,7 +3324,8 @@
     "coordinates": [68.8658708, 18.3456001],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Bardu"
+    "city": "Bardu",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Berg Røde Kors",
@@ -3081,7 +3337,8 @@
     "coordinates": [69.4958812, 17.4859909],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Berg"
+    "city": "Berg",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tokke Røde Kors",
@@ -3093,7 +3350,8 @@
     "coordinates": [59.3549362, 5.2785707],
     "notes": "<p>Vakttelefon Hjelpekorps: 95 87 99 47</p><p>Her finner du oss på vår&nbsp;<a href=\"https://www.facebook.com/pages/Tokke-R%C3%B8de-Kors/163582027018042\">Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Tokke"
+    "city": "Tokke",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Dyrøy Røde Kors",
@@ -3105,7 +3363,8 @@
     "coordinates": [69.092226, 17.6933215],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Dyroy"
+    "city": "Dyroy",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Finnsnes og Omegn Røde Kors",
@@ -3117,7 +3376,8 @@
     "coordinates": [69.232709, 18.000312],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Finnsnes-Og-Omegn"
+    "city": "Finnsnes-Og-Omegn",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Gratangen",
@@ -3129,7 +3389,8 @@
     "coordinates": [68.6685765, 17.66825819999997],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Gratangen"
+    "city": "Gratangen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Balsfjord",
@@ -3141,7 +3402,8 @@
     "coordinates": [69.2173185, 19.5583133],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Balsfjord"
+    "city": "Balsfjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Harstad Røde Kors",
@@ -3153,7 +3415,8 @@
     "coordinates": [68.802746, 16.543944099999976],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Harstad"
+    "city": "Harstad",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Birtavarre Røde Kors",
@@ -3165,7 +3428,8 @@
     "coordinates": [69.4949552, 20.8319007],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Birtavarre"
+    "city": "Birtavarre",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Ibestad Røde Kors",
@@ -3177,7 +3441,8 @@
     "coordinates": [68.8792469, 17.329442500000027],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Ibestad"
+    "city": "Ibestad",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Kvæfjord Røde Kors",
@@ -3189,7 +3454,8 @@
     "coordinates": [68.7717749, 16.1760742],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Kvafjord"
+    "city": "Kvafjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Gryllefjord Røde Kors",
@@ -3201,7 +3467,8 @@
     "coordinates": [69.3626961, 17.0550418],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Gryllefjord"
+    "city": "Gryllefjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Målselv Røde Kors",
@@ -3213,7 +3480,8 @@
     "coordinates": [69.087576, 18.596407],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Malselv"
+    "city": "Malselv",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nordreisa Røde Kors",
@@ -3225,7 +3493,8 @@
     "coordinates": [69.7791586, 20.963837199999944],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Nordreisa"
+    "city": "Nordreisa",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Longyearbyen Røde Kors",
@@ -3237,7 +3506,8 @@
     "coordinates": [78.2231558, 15.6463656],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Longyearbyen"
+    "city": "Longyearbyen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lyngen Røde Kors",
@@ -3249,7 +3519,8 @@
     "coordinates": [69.5762575, 20.2190704],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Lyngen"
+    "city": "Lyngen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Skjervøy Røde Kors",
@@ -3261,7 +3532,8 @@
     "coordinates": [70.0330074, 20.972156600000062],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Skjervoy"
+    "city": "Skjervoy",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tjeldsund Røde Kors",
@@ -3273,7 +3545,8 @@
     "coordinates": [68.5850132, 16.5837516],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Tjeldsund"
+    "city": "Tjeldsund",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tromsø Røde Kors",
@@ -3285,7 +3558,8 @@
     "coordinates": [69.6459351, 18.9430737],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Tromso"
+    "city": "Tromso",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Salangen Røde Kors",
@@ -3297,7 +3571,8 @@
     "coordinates": [68.8726409, 17.8521825],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Salangen"
+    "city": "Salangen",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Holmestrand Røde Kors",
@@ -3309,7 +3584,8 @@
     "coordinates": [59.49120620000001, 10.303912099999934],
     "notes": "<p>Holmestrand Røde Kors er en lokalforening som består av ulike aktiviteter og spennende tilbud for innbyggerene i Holmestrand.<br>Vi er mange frivillige som ønsker å gjøre Holmetrand til et godt sted å bo.</p>",
     "organization": "Røde Kors",
-    "city": "Holmestrand"
+    "city": "Holmestrand",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Horten Røde Kors",
@@ -3321,7 +3597,8 @@
     "coordinates": [59.42401079999999, 10.4552052],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Horten"
+    "city": "Horten",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Lardal Røde Kors",
@@ -3333,7 +3610,8 @@
     "coordinates": [59.3978036, 9.974016599999997],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Lardal"
+    "city": "Lardal",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sandstrand Røde Kors",
@@ -3345,7 +3623,8 @@
     "coordinates": [68.6801321, 16.8689711],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sandstrand"
+    "city": "Sandstrand",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Larvik Røde Kors",
@@ -3357,7 +3636,8 @@
     "coordinates": [59.0651348, 10.042648600000007],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Larvik"
+    "city": "Larvik",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Nøtterøy Røde Kors",
@@ -3369,7 +3649,8 @@
     "coordinates": [59.2336377, 10.410663200000045],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Notteroy"
+    "city": "Notteroy",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sandefjord Røde Kors",
@@ -3381,7 +3662,8 @@
     "coordinates": [59.1333449, 10.214243],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Sandefjord"
+    "city": "Sandefjord",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tjøme og Hvasser Røde Kors",
@@ -3393,7 +3675,8 @@
     "coordinates": [59.1682071, 10.3900149],
     "notes": "<p>Her finner du&nbsp;Tjøme og Hvasser Hjelpekorps <a href=\"https://www.facebook.com/Tj%C3%B8me-Hvasser-R%C3%B8de-Kors-Hjelpekorps-101173729967279/\">Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Tjome-Og-Hvasser"
+    "city": "Tjome-Og-Hvasser",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Tønsberg Røde Kors",
@@ -3405,7 +3688,8 @@
     "coordinates": [59.2723829, 10.426347299999975],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Tonsberg"
+    "city": "Tonsberg",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Re Røde Kors",
@@ -3417,7 +3701,8 @@
     "coordinates": [59.3723954, 10.2631011],
     "notes": "<p>Her finner du oss på vår <a href=\"https://www.facebook.com/search/top?q=re%20røde%20kors\">Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Re"
+    "city": "Re",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Fredrikstad Røde Kors",
@@ -3429,7 +3714,8 @@
     "coordinates": [59.2281041, 10.954829300000029],
     "notes": "<p>Med huset vårt i Ilaveien 106 som hovedkontor har vi Hjelpekorps, nettverksgrupper, besøksvenner, vitnestøtter og andre aktiviteter i lokalområdet. I samarbeid med offentlige innstanser og private aktører ønsker vi å gjøre nærmiljøet til et tryggere og bedre sted og bo.</p><div><p>Røde Kors-huset i Ilaveien er et viktig samlingssted for egne møter og kurs, men også for utleie til bruk av lokale foreninger til faste møter. Huset kan også leies til private arrangement.</p><h3>Kontakt oss</h3></div><ul><li>Vår <a title=\"Vår Facebook-side\" href=\"https://www.facebook.com/fredrikstadrodekors/\">Facebook-side</a></li><li>Vakttelefon Hjelpekorps: 95 99 20 20</li><li>Ønsker du å gi en gave til oss?<br>Vårt kontonummer er: 5122.05.40441 - Vipps 19910</li></ul><h2>Utleie</h2><p>For leie av huset, og priser, ta kontakt med oss på <a title=\"Send e-post for utleie\" href=\"mailto:utleie@fredrikstadrk.no\">utleie@fredrikstadrk.no</a> eller på telefon: 95 99 60 60.&nbsp;<a title=\"Selskapslokale sin side på Facebook\" href=\"https://www.facebook.com/rodekorsselskapslokaler/\">Selskapslokalene finner du også på Facebook</a></p>",
     "organization": "Røde Kors",
-    "city": "Fredrikstad"
+    "city": "Fredrikstad",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Gressvik Røde Kors",
@@ -3441,7 +3727,8 @@
     "coordinates": [59.2149456, 10.8904524],
     "notes": "<ul><li>Vår <a title=\"Her finner du vår Facebook-side\" href=\"https://www.facebook.com/Gressvik-R%C3%B8de-kors-419530518120299/\">Facebook-side</a></li><li>Se våre aktiviteter nederst!&nbsp;</li></ul><h3>Kontaktinformasjon</h3><p>Lokalforeningsleder Mette Martinsen<br>E-post:&nbsp;<a title=\"Send e-post til lokalforeningen\" href=\"mailto:post@gressvikrodekors.no\">post@gressvikrodekors.no</a><br>Tlf: 69 32 59 20/ 93 25 13 19</p><p>Medlemskontakt: 91 85 64 03</p><h2>Utleie av huset</h2><p>Vi leier også ut vårt hus til selskap eller andre arrangement. For leie av Røde Kors-huset ta kontakt med hovedkontoret på tlf: 69 32 59 20 mellom kl. 9.00-12.00 (mandag til fredag).</p><p>Ta kontakt med oss for priser.</p><p>Tlf: 69 32 59 20/ 93 25 13 19</p><h3>Visitor</h3><p>Visitorutvalg Ravneberget Fengsel v/ Mona Hyestad<br>Tlf: 41 54 50 17</p>",
     "organization": "Røde Kors",
-    "city": "Gressvik"
+    "city": "Gressvik",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Halden Røde Kors",
@@ -3453,7 +3740,8 @@
     "coordinates": [59.12684539999999, 11.384820200000036],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Halden"
+    "city": "Halden",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sande Røde Kors",
@@ -3465,7 +3753,8 @@
     "coordinates": [59.5872896, 10.2075012],
     "notes": "<p>Her finner du oss på vår <a href=\"https://www.facebook.com/Sande-R%C3%B8de-Kors-442424639249413/\">Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Sande"
+    "city": "Sande",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Marker Røde Kors",
@@ -3477,19 +3766,8 @@
     "coordinates": [59.4811418, 11.6569005],
     "notes": "<ul><li>Her finner du oss på vår <a title=\"Vår Facebook-side\" href=\"https://www.facebook.com/groups/363190252289968\">Facebook-side</a></li><li>Ta gjerne kontakt med oss på telefon 46908834 om du lurer på noe.</li></ul>",
     "organization": "Røde Kors",
-    "city": "Marker"
-  },
-  {
-    "name": "Moss Røde Kors",
-    "description": "Moss Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid og omsorgsaktiviteter.",
-    "image": "https://www.rodekors.no/UI/logo_main.svg",
-    "address": "Kallumveien 3, 1524 MOSS",
-    "email": "post@mossrk.no",
-    "source": "https://www.rodekors.no/lokalforeninger/ostfold/moss/",
-    "coordinates": [59.4200024, 10.6628296],
-    "notes": null,
-    "organization": "Røde Kors",
-    "city": "Moss"
+    "city": "Marker",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Askim og Hobøl Røde Kors",
@@ -3501,7 +3779,21 @@
     "coordinates": [59.5832224, 11.1641908],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Askim-Hobol"
+    "city": "Askim-Hobol",
+    "data_updated": "2025-08-15"
+  },
+  {
+    "name": "Moss Røde Kors",
+    "description": "Moss Røde Kors mobiliserer frivillighet gjennom rednings- og beredskapsarbeid og omsorgsaktiviteter.",
+    "image": "https://www.rodekors.no/UI/logo_main.svg",
+    "address": "Kallumveien 3, 1524 MOSS",
+    "email": "post@mossrk.no",
+    "source": "https://www.rodekors.no/lokalforeninger/ostfold/moss/",
+    "coordinates": [59.4200024, 10.6628296],
+    "notes": null,
+    "organization": "Røde Kors",
+    "city": "Moss",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Rakkestad Røde Kors",
@@ -3513,7 +3805,8 @@
     "coordinates": [59.427267, 11.339397],
     "notes": "<ul><li>Her finner du oss på vår <a title=\"Vår Facebook-side\" href=\"https://www.facebook.com/RodeKorsRakkestad\">Facebook-side</a></li></ul>",
     "organization": "Røde Kors",
-    "city": "Rakkestad"
+    "city": "Rakkestad",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Råde Røde Kors",
@@ -3525,7 +3818,8 @@
     "coordinates": [59.3516061, 10.8756515],
     "notes": "<ul><li>Her finner du oss på vår&nbsp;<a title=\"Vår Facebook-side\" href=\"https://www.facebook.com/ryggeraderodekors/\">Facebook-side</a></li><li>Vår postadresse er Everksveien 9, 1640 Råde</li></ul><h3>Ønsker du å bli frivillig på Nasjonalt ankomstsenter?</h3><p>Ta kontakt på <a title=\"Bli frivillig send e-post\" href=\"mailto:frivillig.ostfold@redcross.no\">frivillig.ostfold@redcross.no</a></p>",
     "organization": "Røde Kors",
-    "city": "Rade"
+    "city": "Rade",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Sarpsborg Røde Kors",
@@ -3537,7 +3831,8 @@
     "coordinates": [59.282089, 11.092505],
     "notes": "<ul><li><a title=\"Lenke til Facebook\" href=\"https://www.facebook.com/rodekorssarpsborg\">Vår Facebook-side</a></li><li><a title=\"Våre kurs\" href=\"http://ressurs.redcross.no/Event/SearchEvent.aspx\">Kurskatalog</a></li></ul><p>Postadresse: Klokkergårdveien 32, 1711 Sarpsborg.</p>",
     "organization": "Røde Kors",
-    "city": "Sarpsborg"
+    "city": "Sarpsborg",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Skiptvet Røde Kors",
@@ -3549,7 +3844,8 @@
     "coordinates": [59.473781, 11.162165],
     "notes": "<p>Her finner du oss på vår <a title=\"Vår Facebook-side\" href=\"https://www.facebook.com/pages/Skiptvet-R%C3%B8de-Kors/1414928918829775\">Facebook-side</a></p>",
     "organization": "Røde Kors",
-    "city": "Skiptvet"
+    "city": "Skiptvet",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Spydeberg Røde Kors",
@@ -3561,7 +3857,8 @@
     "coordinates": [59.6203107, 11.0811917],
     "notes": "<ul><li>Her finner du oss på vår <a title=\"Vår Facebook-side\" href=\"https://www.facebook.com/rodekorsspydeberg/\">Facebook-side</a></li></ul>",
     "organization": "Røde Kors",
-    "city": "Spydeberg"
+    "city": "Spydeberg",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Hvaler Røde Kors",
@@ -3573,7 +3870,8 @@
     "coordinates": [59.0252713, 11.0368478],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Hvaler"
+    "city": "Hvaler",
+    "data_updated": "2025-08-15"
   },
   {
     "name": "Mysen og Omegn Røde Kors",
@@ -3585,6 +3883,7 @@
     "coordinates": [59.5556926, 11.3259596],
     "notes": null,
     "organization": "Røde Kors",
-    "city": "Mysen-Og-Omegn"
+    "city": "Mysen-Og-Omegn",
+    "data_updated": "2025-08-15"
   }
 ]
